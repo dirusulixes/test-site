@@ -1,9 +1,9 @@
 <nav
-  class="flex flex-col sm:flex-row w-full justify-between items-center px-4 sm:px-16 py-1 bg-white sm:bg-transparent shadow sm:shadow-none">
+  class="flex flex-col sm:flex-row w-full justify-between items-center px-4 sm:px-6 py-1 bg-white sm:bg-transparent shadow sm:shadow-none">
   <div
     class="w-full sm:w-auto self-start sm:self-center flex flex-row sm:flex-none flex-no-wrap justify-between items-center">
     <a href="/" class="no-underline"><img src="/img/NUSC_logo2.svg" alt="University of Greenwich Networks and Urban System Centre Logo"
-        class="h-12 py-1"></a>
+        class="h-32 py-1"></a>
     <button id="menuBtn" class="hamburger block sm:hidden focus:outline-none" type="button" onclick="navToggle();" aria-label="Show Menu"><span
         class="hamburger__top-bun"></span><span class="hamburger__bottom-bun"></span></button>
   </div>
@@ -21,6 +21,6 @@
         target="_blank" rel="noopener">{{ item.title }}</a>
     {% endfor %} -->
     <a class="text-gray-800 border border-indigo-800 text-lg bg-gray-100 rounded-full w-auto no-underline text-center sm:text-left hover:border-purple-600 hover:text-purple-600 hover:bg-white hover:shadow-md px-6 py-1 my-2 sm:my-0 sm:ml-4"
-      href="{% if isFront %}#register{% else %}{{ site.baseURL }}/#register{% endif %}">Register (Soon)</a>
+      href="{% if isFront %}#register{% else %}{{ site.baseURL }}/#register{% endif %}">Register (Coming Soon)</a>
   </div>
 </nav>
