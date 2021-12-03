@@ -1,32 +1,32 @@
 [
   {
-    "title": "25th February 2022",
-    "icon": "icon1.svg",
-    "content": "Workshops and sessions proposals due (Notification Feb 25th)"
+    "title": "18th February 2022",
+    "icon": "workshops.svg",
+    "content": "Workshops and sessions proposals due (Notification 24th February)"
   },
   {
-    "title": "22nd April 2022",
-    "icon": "icon2.svg",
-    "content": "Abstracts for presesentations due (Notification May 27th)"
+    "title": "15th April 2022",
+    "icon": "submission.svg",
+    "content": "Abstracts for presesentations due (Notification 27th May)"
   },
   {
     "title": "24th June 2022",
-    "icon": "icon3.svg",
-    "content": "Posters due (Notification July 15th)"
+    "icon": "poster.svg",
+    "content": "Posters due (Notification 8th July)"
   },
   {
     "title": "31st July 2022",
-    "icon": "icon4.svg",
+    "icon": "earlybird.svg",
     "content": "Early bird registation ends"
   },
   {
     "title": "31st August 2022",
-    "icon": "icon5.svg",
+    "icon": "registration.svg",
     "content": "Regular registration ends"
   },
   {
     "title": "1st September 2022",
-    "icon": "icon6.svg",
+    "icon": "lastminute.svg",
     "content": "Last-minute registration begins"
   }
 ]
