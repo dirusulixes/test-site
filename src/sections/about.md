@@ -14,3 +14,22 @@ EUSN 2022 is endorsed by INSNA, the International Network for Social Network Ana
 
 # Keynotes
 To be announced
+
+# Venue 
+Greenwich Campus, University of Greenwich, London.   
+
+Greenwich Campus sits on a World Heritage Site and is located in the heart of Greenwich, south-east London. The campus is surrounded by historical landmarks and Greenwich Park.  
+
+Both the Stockwell Street Building and the Old Royal Naval College complex will host conference events.   
+
+# Committees 
+
+## Organising Committee 
+
+Francesca Pallotti, University of Greenwich 
+
+Guido Conaldi, University of Greenwich 
+
+## Program Committee 
+
+To be announced 
