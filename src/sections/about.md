@@ -3,9 +3,25 @@ title: Welcome to EUSN 2022 in London
 type: about
 ---
 
-        <b>
+  <table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>      
         The 6th European Conference on Social Networks (EUSN 2022) will be held in London, 12-16 September 2022.
-        </b>
+       
 
  
  <p>
