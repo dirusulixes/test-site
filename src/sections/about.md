@@ -11,6 +11,9 @@ type: about
     <td><p align="left">Continuing the traditions of previous conferences in Barcelona (2014), Paris (2016), Mainz (2017), Zurich (2019), and Naples (2021), as well as the legacies of predecessors Applications of Social Network Analysis (ASNA) and UK Social Network Analysis (UKSNA), the conference brings together researchers and practitioners from the social sciences in the broad sense as well as statistics, computer science, data science, physics, economics, humanities, and other areas dealing with network science. </p></td>
   </tr>
    <tr>
+    <td><br></td>
+  </tr>
+   <tr>
     <td>EUSN 2022 is endorsed by <a title="INSNA" href="https://www.insna.org/" target="_blank" >INSNA </a>, the International Network for Social Network Analysis.</td>
   </tr>
      <tr>
@@ -23,6 +26,9 @@ type: about
     <td>To be announced</td>
   </tr>
   <tr>
+     <tr>
+    <td><br></td>
+  </tr>
     <td><b>Venue</b></td>
   </tr>
    <tr>
@@ -33,6 +39,9 @@ type: about
   </tr>
      <tr>
     <td><p align="left">Both the Stockwell Street Building and the Old Royal Naval College complex will host conference events.</p></td>
+  </tr>
+   <tr>
+    <td><br></td>
   </tr>
     <tr>
     <td><b>Committees</b></td>
@@ -47,6 +56,9 @@ type: about
    <tr>
     <td> Guido Conaldi, University of Greenwich</td>
    </tr>
+    <tr>
+    <td><br></td>
+  </tr>
      <tr>
     <td><b>Program Committee</b></td>
   </tr>
