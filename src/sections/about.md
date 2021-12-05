@@ -11,7 +11,7 @@ Continuing the traditions of previous conferences in Barcelona (2014), Paris (20
 
 EUSN 2022 is endorsed by INSNA, the International Network for Social Network Analysis.
 
--INSNA_logo.png-
+ <img class="my-12 max-w-full mx-auto" src="/img/INSNA_logo.png" alt="INSNA Logo">
 <table>
     <tr>
         <td>Foo</td>
