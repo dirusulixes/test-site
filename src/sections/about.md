@@ -5,7 +5,7 @@ type: about
 
   <table>
   <tr>
-    <td><p align="justify">The 6th European Conference on Social Networks (EUSN 2022) will be held in London, 12-16 September 2022.</p></td>
+    <td><p align="justify">The 6th European Conference on Social Networks (EUSN 2022) is hosted by the Networks and Urban Systems Centre at the University of Greenwich will be held in London, 12-16 September 2022.</p></td>
   </tr>
    <tr>
     <td><br></td>
