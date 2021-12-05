@@ -29,6 +29,9 @@ type: about
     <td><font size="4">To be announced</font></td>
   </tr>
   <tr>
+    <td><br></td>
+  </tr>
+  <tr>
     <td><b>Venue</b></td>
   </tr>
    <tr>
