@@ -71,7 +71,7 @@ type: about
   </tr>
    </tr>
    <tr>
-    <td> Guido Conaldi, University of Greenwich</td>
+    <td> <font size="-0.5"> Guido Conaldi, University of Greenwich</font></td>
    </tr>
     <tr>
     <td></td>
