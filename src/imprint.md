@@ -4,7 +4,11 @@ description: Information according to whatever legal requirements apply.
 layout: page.njk
 ---
 
-Test
+EUSN 2022 Organising Committee
+eusn2022@greenwich.ac.uk
+University of Greenwich
+Park Row, London SE10 9LS
+
 
 Images:
 
