@@ -1,6 +1,8 @@
 {
   "baseURL": "https://eusn2022.org",
-  "description": "EUSN2022 - 6th European Conference on Social Networks",
+  "description": "EUSN 2022 - 6th European Conference on Social Networks",
+  "title": "EUSN 2022",
+  "author": "EUSN 2022 Organising Committee",
   "language": "en",
   "social": [
     {
