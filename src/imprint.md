@@ -5,8 +5,11 @@ layout: page.njk
 ---
 
 EUSN 2022 Organising Committee
+
 eusn2022@greenwich.ac.uk
+
 University of Greenwich
+
 Park Row, London SE10 9LS
 
 
