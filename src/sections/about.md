@@ -23,16 +23,16 @@ type: about
     <td>To be announced</td>
   </tr>
   <tr>
-    <td><p align="left"><b>Venue</b></p></td>
+    <td><b>Venue</b></td>
   </tr>
    <tr>
-    <td> Greenwich Campus, University of Greenwich, London.</td>
+    <td><p align="left">Greenwich Campus, University of Greenwich, London.</p></td>
   </tr>
    <tr>
-    <td> Greenwich Campus sits on a World Heritage Site and is located in the heart of Greenwich, south-east London. The campus is surrounded by historical landmarks and Greenwich Park.</td>
+    <td><p align="left">Greenwich Campus sits on a World Heritage Site and is located in the heart of Greenwich, south-east London. The campus is surrounded by historical landmarks and Greenwich Park.</p></td>
   </tr>
      <tr>
-    <td>Both the Stockwell Street Building and the Old Royal Naval College complex will host conference events.   </td>
+    <td><p align="left">Both the Stockwell Street Building and the Old Royal Naval College complex will host conference events.</p></td>
   </tr>
     <tr>
     <td><b>Committees</b></td>
