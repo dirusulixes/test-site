@@ -20,26 +20,36 @@ type: about
     <td> Keynotes</td>
   </tr>
   <tr>
-    <td> To be announced</td>
+    <td>Venue</td>
+  </tr>
+   <tr>
+    <td> Greenwich Campus, University of Greenwich, London.</td>
+  </tr>
+   <tr>
+    <td> Greenwich Campus sits on a World Heritage Site and is located in the heart of Greenwich, south-east London. The campus is surrounded by historical landmarks and Greenwich Park.</td>
+  </tr>
+     <tr>
+    <td>Both the Stockwell Street Building and the Old Royal Naval College complex will host conference events.   </td>
+  </tr>
+    <tr>
+    <td>Committees </td>
+  </tr>
+   <tr>
+    <td> Organising Committee</td>
+  </tr>
+   <tr>
+    <td> Francesca Pallotti, University of Greenwich</td>
+  </tr>
+   </tr>
+   <tr>
+    <td> Guido Conaldi, University of Greenwich</td>
+  </tr>
+     <tr>
+    <td>Program Committee</td>
+  </tr>
+       <tr>
+    <td>To be announced</td>
   </tr>
 </table>      
 
 
-# Venue 
-Greenwich Campus, University of Greenwich, London.   
-
-Greenwich Campus sits on a World Heritage Site and is located in the heart of Greenwich, south-east London. The campus is surrounded by historical landmarks and Greenwich Park.  
-
-Both the Stockwell Street Building and the Old Royal Naval College complex will host conference events.   
-
-# Committees 
-
-## Organising Committee 
-
-Francesca Pallotti, University of Greenwich 
-
-Guido Conaldi, University of Greenwich 
-
-## Program Committee 
-
-To be announced 
