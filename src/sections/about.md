@@ -64,14 +64,14 @@ type: about
     <td></td>
   </tr>
    <tr>
-    <td><b>Organising Committee</b></td>
+    <td> <font size="4"><b>Organising Committee</b></font></td>
   </tr>
    <tr>
-    <td><font size="3">Francesca Pallotti, University of Greenwich</font></td>
+    <td><font size="4">Francesca Pallotti, University of Greenwich</font></td>
   </tr>
    </tr>
    <tr>
-    <td> <font size="3"> Guido Conaldi, University of Greenwich</font></td>
+    <td><font size="4">Guido Conaldi, University of Greenwich</font></td>
    </tr>
     <tr>
     <td></td>
@@ -81,10 +81,10 @@ type: about
   </tr>
    <tr>
      <tr>
-    <td><b>Program Committee</b></td>
+    <td> <font size="4"> <b>Program Committee</b></font></td>
   </tr>
        <tr>
-    <td>To be announced</td>
+    <td><font size="4">To be announced</font></td>
   </tr>
     <tr>
     <td><br></td>
