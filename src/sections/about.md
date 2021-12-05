@@ -22,6 +22,9 @@ type: about
      <tr>
     <td><a title="INSNA" href="https://www.insna.org/" target="_blank" > <img class="my-12 max-w-full mx-auto" src="/img/INSNA_logo.png" alt="INSNA Logo"></a></td>
   </tr>
+    <tr>
+    <td><br></td>
+  </tr>
   <tr>
     <td><b>Keynotes</b></td>
   </tr>
