@@ -67,7 +67,7 @@ type: about
     <td><b>Organising Committee</b></td>
   </tr>
    <tr>
-    <td> Francesca Pallotti, University of Greenwich</td>
+    <td><font size="-1">Francesca Pallotti, University of Greenwich</font></td>
   </tr>
    </tr>
    <tr>
