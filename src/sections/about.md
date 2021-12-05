@@ -67,11 +67,11 @@ type: about
     <td><b>Organising Committee</b></td>
   </tr>
    <tr>
-    <td><font size="-0.5">Francesca Pallotti, University of Greenwich</font></td>
+    <td><font size="-0.3">Francesca Pallotti, University of Greenwich</font></td>
   </tr>
    </tr>
    <tr>
-    <td> <font size="-0.5"> Guido Conaldi, University of Greenwich</font></td>
+    <td> <font size="-0.3"> Guido Conaldi, University of Greenwich</font></td>
    </tr>
     <tr>
     <td></td>
