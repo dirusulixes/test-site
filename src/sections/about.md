@@ -61,6 +61,9 @@ type: about
    <tr>
     <td></td>
   </tr>
+     <tr>
+    <td></td>
+  </tr>
    <tr>
     <td><font size="4"><b>Organising Committee</b></font></td>
   </tr>
@@ -77,6 +80,9 @@ type: about
     <td></td>
   </tr>
      <tr>
+   <tr>
+    <td></td>
+  </tr>
     <td> <font size="4"> <b>Program Committee</b></font></td>
   </tr>
        <tr>
