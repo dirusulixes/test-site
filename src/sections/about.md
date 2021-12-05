@@ -18,7 +18,7 @@ type: about
     <td><br></td>
   </tr>
    <tr>
-    <td><p align="justify">EUSN 2022 is endorsed by <a title="INSNA" href="https://www.insna.org/" target="_blank" >INSNA </a>, the International Network for Social Network Analysis.</p></td>
+    <td><p align="justify">EUSN 2022 is endorsed by INSNA, the International Network for Social Network Analysis.</p></td>
   </tr>
      <tr>
     <td><a title="INSNA" href="https://www.insna.org/" target="_blank" > <img class="my-12 max-w-full mx-auto" src="/img/INSNA_logo.png" alt="INSNA Logo"></a></td>
@@ -49,6 +49,9 @@ type: about
   </tr>
     <tr>
     <td><b>Committees</b></td>
+  </tr>
+   <tr>
+    <td></td>
   </tr>
    <tr>
     <td><b>Organising Committee</b></td>
