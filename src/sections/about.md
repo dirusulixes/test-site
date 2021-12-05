@@ -11,7 +11,7 @@ type: about
     <td>Continuing the traditions of previous conferences in Barcelona (2014), Paris (2016), Mainz (2017), Zurich (2019), and Naples (2021), as well as the legacies of predecessors Applications of Social Network Analysis (ASNA) and UK Social Network Analysis (UKSNA), the conference brings together researchers and practitioners from the social sciences in the broad sense as well as statistics, computer science, data science, physics, economics, humanities, and other areas dealing with network science. </td>
   </tr>
    <tr>
-    <td>EUSN 2022 is endorsed by INSNA, the International Network for Social Network Analysis.</td>
+    <td>EUSN 2022 is endorsed by <a title="INSNA" href="https://www.insna.org/" target="_blank" >INSNA </a>, the International Network for Social Network Analysis.</td>
   </tr>
      <tr>
     <td> <img class="my-12 max-w-full mx-auto" src="/img/INSNA_logo.png" alt="INSNA Logo"></td>
