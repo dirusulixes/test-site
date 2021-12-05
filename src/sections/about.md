@@ -39,10 +39,10 @@ type: about
     <td><p align="left">Greenwich Campus, University of Greenwich, London.</p></td>
   </tr>
    <tr>
-    <td><p align="left">Greenwich Campus sits on a World Heritage Site and is located in the heart of Greenwich, south-east London. The campus is surrounded by historical landmarks and Greenwich Park.</p></td>
+    <td><p align="justify">Greenwich Campus sits on a World Heritage Site and is located in the heart of Greenwich, south-east London. The campus is surrounded by historical landmarks and Greenwich Park.</p></td>
   </tr>
      <tr>
-    <td><p align="left">Both the Stockwell Street Building and the Old Royal Naval College complex will host conference events.</p></td>
+    <td><p align="justify">Both the Stockwell Street Building and the Old Royal Naval College complex will host conference events.</p></td>
   </tr>
    <tr>
     <td><br></td>
@@ -64,7 +64,7 @@ type: about
     <td> Guido Conaldi, University of Greenwich</td>
    </tr>
     <tr>
-    <td><br></td>
+    <td></td>
   </tr>
      <tr>
     <td><b>Program Committee</b></td>
