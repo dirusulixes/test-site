@@ -20,7 +20,7 @@ type: about
     <td> Keynotes</td>
   </tr>
   <tr>
-    <td>Venue</td>
+    <td><b>Venue</b></td>
   </tr>
    <tr>
     <td> Greenwich Campus, University of Greenwich, London.</td>
