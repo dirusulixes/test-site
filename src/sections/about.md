@@ -27,7 +27,7 @@ type: about
     <td><b>Keynotes</b></td>
   </tr>
    <tr>
-    <td>To be announced</td>
+    <td><font size="4">To be announced</font></td>
   </tr>
   <tr>
      <tr>
@@ -36,19 +36,19 @@ type: about
     <td><b>Venue</b></td>
   </tr>
    <tr>
-    <td><p align="left">Greenwich Campus, University of Greenwich, London.</p></td>
+    <td><p align="left"><font size="4">Greenwich Campus, University of Greenwich, London.</font></p></td>
   </tr>
     <tr>
     <td></td>
   </tr>
    <tr>
-    <td><p align="justify">Greenwich Campus sits on a World Heritage Site and is located in the heart of Greenwich, south-east London. The campus is surrounded by historical landmarks and Greenwich Park.</p></td>
+    <td><p align="justify"><font size="4">Greenwich Campus sits on a World Heritage Site and is located in the heart of Greenwich, south-east London. The campus is surrounded by historical landmarks and Greenwich Park.</font></p></td>
   </tr>
     <tr>
     <td></td>
   </tr>
      <tr>
-    <td><p align="justify">Both the Stockwell Street Building and the Old Royal Naval College complex will host conference events.</p></td>
+    <td><p align="justify"><font size="4">Both the Stockwell Street Building and the Old Royal Naval College complex will host conference events.</font></p></td>
   </tr>
    <tr>
     <td><br></td>
@@ -64,7 +64,7 @@ type: about
     <td></td>
   </tr>
    <tr>
-    <td> <font size="4"><b>Organising Committee</b></font></td>
+    <td><font size="4"><b>Organising Committee</b></font></td>
   </tr>
    <tr>
     <td><font size="4">Francesca Pallotti, University of Greenwich</font></td>
