@@ -35,9 +35,6 @@ type: about
     <td><b>Venue</b></td>
   </tr>
    <tr>
-    <td><br></td>
-  </tr>
-   <tr>
     <td><p align="left"><font size="4">Greenwich Campus, University of Greenwich, London.</font></p></td>
   </tr>
     <tr>
