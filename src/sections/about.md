@@ -23,7 +23,7 @@ type: about
     <td>To be announced</td>
   </tr>
   <tr>
-    <td><b>Venue</b></td>
+    <td><p align="left"><b>Venue</b></p></td>
   </tr>
    <tr>
     <td> Greenwich Campus, University of Greenwich, London.</td>
