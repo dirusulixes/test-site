@@ -38,8 +38,14 @@ type: about
    <tr>
     <td><p align="left">Greenwich Campus, University of Greenwich, London.</p></td>
   </tr>
+    <tr>
+    <td></td>
+  </tr>
    <tr>
     <td><p align="justify">Greenwich Campus sits on a World Heritage Site and is located in the heart of Greenwich, south-east London. The campus is surrounded by historical landmarks and Greenwich Park.</p></td>
+  </tr>
+    <tr>
+    <td></td>
   </tr>
      <tr>
     <td><p align="justify">Both the Stockwell Street Building and the Old Royal Naval College complex will host conference events.</p></td>
@@ -51,6 +57,10 @@ type: about
     <td><b>Committees</b></td>
   </tr>
    <tr>
+    <td></td>
+  </tr>
+   <tr>
+    <tr>
     <td></td>
   </tr>
    <tr>
@@ -66,6 +76,10 @@ type: about
     <tr>
     <td></td>
   </tr>
+    <tr>
+    <td></td>
+  </tr>
+   <tr>
      <tr>
     <td><b>Program Committee</b></td>
   </tr>
