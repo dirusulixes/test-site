@@ -54,7 +54,7 @@ type: about
     <td>To be announced</td>
   </tr>
     <tr>
-    <td> </td>
+    <td><br></td>
   </tr>
 </table>      
 
