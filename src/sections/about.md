@@ -7,7 +7,6 @@ type: about
   <tr>
     <td><p align="justify">The 6th European Conference on Social Networks (EUSN 2022) will be held in London, 12-16 September 2022.</p></td>
   </tr>
-    </tr>
    <tr>
     <td><br></td>
   </tr>
@@ -23,17 +22,17 @@ type: about
      <tr>
     <td><a title="INSNA" href="https://www.insna.org/" target="_blank" > <img class="my-12 max-w-full mx-auto" src="/img/INSNA_logo.png" alt="INSNA Logo"></a></td>
   </tr>
-       <tr>
+  <tr>
     <td><b>Keynotes</b></td>
   </tr>
    <tr>
     <td><font size="4">To be announced</font></td>
   </tr>
   <tr>
-     <tr>
-    <td><br></td>
-  </tr>
     <td><b>Venue</b></td>
+  </tr>
+   <tr>
+    <td><br></td>
   </tr>
    <tr>
     <td><p align="left"><font size="4">Greenwich Campus, University of Greenwich, London.</font></p></td>
@@ -60,7 +59,6 @@ type: about
     <td></td>
   </tr>
    <tr>
-    <tr>
     <td></td>
   </tr>
    <tr>
@@ -69,7 +67,6 @@ type: about
    <tr>
     <td><font size="4">Francesca Pallotti, University of Greenwich</font></td>
   </tr>
-   </tr>
    <tr>
     <td><font size="4">Guido Conaldi, University of Greenwich</font></td>
    </tr>
@@ -79,7 +76,6 @@ type: about
     <tr>
     <td></td>
   </tr>
-   <tr>
      <tr>
     <td> <font size="4"> <b>Program Committee</b></font></td>
   </tr>
