@@ -10,7 +10,7 @@ type: register
   <p align="justify"> The Call for papers will be published in March 2022.
 </tr>
 <tr>
-  <p align="justify"> All submissions will be managed via <a title="Microsoft Conference Management Toolkit (CMT)" href="https://cmt3.research.microsoft.com/">
+  <p align="justify"> All submissions will be managed via <a title="Microsoft Conference Management Toolkit (CMT)" href="https://cmt3.research.microsoft.com/">Microsoft Conference Management Toolkit (CMT)</a>
 </tr>
 <tr>
   <p align="justify">Registrations are expected to open in late Spring 2022
