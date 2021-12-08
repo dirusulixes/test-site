@@ -5,7 +5,7 @@ type: about
 
   <table>
   <tr>
-    <td><p align="justify">The 6th European Conference on Social Networks (EUSN 2022) is hosted by the Networks and Urban Systems Centre at the University of Greenwich will be held in London, 12-16 September 2022.</p></td>
+    <td><p align="justify">The 6th European Conference on Social Networks (EUSN 2022) is hosted by the Networks and Urban Systems Centre at the University of Greenwich and will be held in London, 12-16 September 2022.</p></td>
   </tr>
    <tr>
     <td><br></td>
@@ -20,7 +20,7 @@ type: about
     <td><p align="justify">EUSN 2022 is endorsed by INSNA, the International Network for Social Network Analysis.</p></td>
   </tr>
      <tr>
-    <td><a title="INSNA" href="https://www.insna.org/" target="_blank" > <img class="my-12 max-w-full mx-auto" src="/img/INSNA_logo.png" alt="INSNA Logo"></a></td>
+    <td><a title="INSNA" href="https://www.insna.org/" target="_blank" > <img class="my-12 max-w-md mx-auto" src="/img/INSNA_logo.png" alt="INSNA Logo"></a></td>
   </tr>
     <tr>
     <td><br></td>
