@@ -20,7 +20,7 @@ type: about
     <td><p align="justify">EUSN 2022 is endorsed by INSNA, the International Network for Social Network Analysis.</p></td>
   </tr>
      <tr>
-    <td><a title="INSNA" href="https://www.insna.org/" target="_blank" > <img class="my-12 max-w-md mx-auto" src="/img/INSNA_logo.png" alt="INSNA Logo"></a></td>
+    <td><a title="INSNA" href="https://www.insna.org/" target="_blank" > <img class="my-12 max-w-sm mx-auto" src="/img/INSNA_logo.png" alt="INSNA Logo"></a></td>
   </tr>
     <tr>
     <td><br></td>
