@@ -3,7 +3,7 @@ title: Submissions
 type: register
 ---
 
-The call for sessions and workshops will be published in January 2022. 
+<p align="justify">The call for sessions and workshops will be published in January 2022.</p>
 
 The Call for papers will be published in March 2022.
 
