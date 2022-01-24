@@ -7,7 +7,7 @@ type: register
   <p align="justify"> Call for Organised Sessions and Workshops</p>
 </tr>
   <tr>
-  <p align="justify"> We are pleased to invite contributions to organised sessions and workshops for the upcoming 6th European Conference on Social Networks (https://eusn2022.org), to be held at the University of Greenwich, London, 12-16th September 2022. </p>
+  <p align="justify"> We are pleased to invite contributions to organised sessions and workshops</p>
 
 <p align="justify"> Organised sessions: (deadline 25 February 2022)</p> 
 
