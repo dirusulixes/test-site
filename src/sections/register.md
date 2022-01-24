@@ -19,15 +19,12 @@ type: register
 
 <p align="justify">How to submit</p> 
 
-<p align="justify">EUSN 2022 uses Microsoft Conference Management Toolkit (CMT)  for all submissions. You will need a free CMT account to submit your proposals at https://cmt3.research.microsoft.com/EUSN2022  Once logged in, you will be able to create new submissions from the author homepage.</p> 
+<p align="justify">EUSN 2022 uses <a title="Microsoft Conference Management Toolkit (CMT)"href="https://cmt3.research.microsoft.com/">Microsoft Conference Management Toolkit (CMT) for all submissions. You will need a free CMT account to submit your proposals at <a title="https://cmt3.research.microsoft.com/EUSN2022"href="https://cmt3.research.microsoft.com/EUSN2022">  Once logged in, you will be able to create new submissions from the author homepage.</p> 
 
 <p align="justify">Please do not hesitate to email us at eusn2022@gre.ac.uk if you have any questions.</p>
 </tr>
 <tr>
   <p align="justify"> The Call for papers will be published in March 2022.</p>
-</tr>
-<tr>
-  <p align="justify"> All submissions will be managed via <a title="Microsoft Conference Management Toolkit (CMT)"</p> href="https://cmt3.research.microsoft.com/">Microsoft Conference Management Toolkit (CMT)</a></p>
 </tr>
 <tr>
   <p align="justify">Registrations are expected to open in late Spring 2022</p>
