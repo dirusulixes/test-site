@@ -2,6 +2,7 @@
 title: Submissions
 type: register
 ---
+
 <table>
 <tr>
   <p align="justify"><b>Call for Organised Sessions and Workshops</b></p>
@@ -44,4 +45,31 @@ type: register
 <tr>
   <p align="justify">Registrations are expected to open in late Spring 2022</p>
 </tr>
-</table>
+   <tr>
+    <td><font size="4"><b>Organising Committee</b></font></td>
+  </tr>
+   <tr>
+    <td><font size="4">Francesca Pallotti, University of Greenwich</font></td>
+  </tr>
+   <tr>
+    <td><font size="4">Guido Conaldi, University of Greenwich</font></td>
+   </tr>
+    <tr>
+    <td></td>
+  </tr>
+    <tr>
+    <td></td>
+  </tr>
+     <tr>
+   <tr>
+    <td></td>
+  </tr>
+    <td> <font size="4"> <b>Program Committee</b></font></td>
+  </tr>
+       <tr>
+    <td><font size="4">To be announced</font></td>
+  </tr>
+    <tr>
+    <td><br></td>
+  </tr>
+  </table>
