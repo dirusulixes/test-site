@@ -30,6 +30,12 @@ type: register
 
 <p align="justify">Please do not hesitate to email us at eusn2022@gre.ac.uk if you have any questions.</p>
 </tr>
+   <tr>
+    <td><br></td>
+  </tr>
+     <tr>
+    <td><br></td>
+  </tr>
 <tr>
   <p align="justify"> The Call for papers will be published in March 2022.</p>
 </tr>
