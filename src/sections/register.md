@@ -9,7 +9,7 @@ type: register
 </tr>
 
  <tr>  
- <td><p align="justify"> We are pleased to invite contributions to organised sessions and workshops</p></td>
+ <td><p align="justify"> We are pleased to invite contributions to organised sessions and workshops.</p></td>
 </tr>
 
   <tr>  
@@ -49,7 +49,7 @@ type: register
  </tr>  
 
    <tr>  
- <td><p align="justify">EUSN 2022 uses <a title="Microsoft Conference Management Toolkit (CMT)" href="https://cmt3.research.microsoft.com/">Microsoft Conference Management Toolkit (CMT)</a> for all submissions. You will need a free CMT account to submit your proposals at <a title="https://cmt3.research.microsoft.com/EUSN2022" href="https://cmt3.research.microsoft.com/EUSN2022">https://cmt3.research.microsoft.com/EUSN2022</a>.</p> </td>
+ <td><p align="justify">EUSN 2022 uses <a title="Microsoft Conference Management Toolkit (CMT)" href="https://cmt3.research.microsoft.com/">Microsoft Conference Management Toolkit (CMT)</a> for all submissions. You will need a free CMT account to submit your proposals at <b><a title="https://cmt3.research.microsoft.com/EUSN2022" href="https://cmt3.research.microsoft.com/EUSN2022">https://cmt3.research.microsoft.com/EUSN2022</a></b>.</p> </td>
  </tr>  
 
    <tr>  
@@ -61,7 +61,7 @@ type: register
   </tr>
    
   <tr>  
- <td><p align="justify">Please do not hesitate to email us at <a href="eusn2022@gre.ac.uk">eusn2022@gre.ac.uk</a> if you have any questions.</p></td>
+ <td><p align="justify">Please do not hesitate to email us at <a href="mailto:eusn2022@gre.ac.uk">eusn2022@gre.ac.uk</a> if you have any questions.</p></td>
 </tr>
   
   <tr>
@@ -74,6 +74,6 @@ type: register
   <td><p align="justify"> The Call for papers will be published in March 2022.</p></td>
 </tr>
 <tr>
- <td><p align="justify">Registrations are expected to open in late Spring 2022</p></td>
+ <td><p align="justify">Registrations are expected to open in late Spring 2022.</p></td>
 </tr>
   </table>
