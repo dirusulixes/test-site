@@ -1,6 +1,6 @@
 ---
 title: Submissions
-type: register
+type: about
 ---
 <table>
 <tr>
