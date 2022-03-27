@@ -29,10 +29,10 @@ type: about
     <td><b>Keynotes</b></td>
   </tr>
    <tr>
-    <td><font size="4">Prof. Kerstin Sailer, University College London</font></td>
+     <td><font size="4"><b>Prof. Kerstin Sailer</b>, University College London</font></td>
   </tr>
    <tr>
-    <td><font size="4">Prof. Alessandro Lomi, Università della Svizzera italiana</font></td>
+    <td><font size="4"><b>Prof. Alessandro Lomi</b>, Università della Svizzera italiana</font></td>
   </tr>
   <tr>
     <td><br></td>
