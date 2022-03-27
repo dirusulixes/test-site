@@ -77,6 +77,9 @@ type: about
     <td><font size="4">Guido Conaldi, University of Greenwich</font></td>
    </tr>
     <tr>
+    <td><font size="4">Stefano Ghinoi, University of Greenwich</font></td>
+   </tr>
+    <tr>
     <td></td>
   </tr>
     <tr>
