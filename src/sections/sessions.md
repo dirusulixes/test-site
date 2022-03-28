@@ -4,8 +4,12 @@ type: sessions
 ---
 
 The 6th European Conference on Social Networks (EUSN 2022) is hosted by the Networks and Urban Systems Centre at the University of Greenwich and will be held in London, 12-16 September 2022.
-</br>
+
 **Organised Session 01: Advanced Methods for Multilayer and Feature-Rich Networks and Their Applications**
+
+**Giancarlo G. Ragozini** (University of Naples Federico II): giragoz@unina.it
+
+In recent years it has become more and more frequent to use network models going beyond simple directed/undirected and weighted/unweighted networks, to capture the complexity of old and new fields of application of network analysis. Multilayer networks are an example of such models, extending graphs with the concept of layer, that allows us to represent a multitude of scenarios from the different types of ties we find in a multiplex network, to different types of actors, to different temporal snapshots of the relations between the same group of actors. Multilayer network models can themselves be enriched with additional features, such as attributes and edge probabilities, with the aim of describing real phenomena in more detail.
 
   <table>
   <tr>
