@@ -8,24 +8,10 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
-/* unvisited link */
-a:link {
-  color: red;
-}
-
-/* visited link */
-a:visited {
-  color: green;
-}
 
 /* mouse over link */
 a:hover {
-  color: hotpink;
-}
-
-/* selected link */
-a:active {
-  color: blue;
+  color: rgb(0, 112, 186);
 }
 
 /* scrollbar styles */
