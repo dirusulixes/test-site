@@ -1,5 +1,5 @@
 ---
-title: Welcome to EUSN 2022 in London
+title: Organised Sessions
 type: sessions
 ---
 
