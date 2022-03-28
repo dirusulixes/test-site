@@ -8,7 +8,7 @@ type: sessions
 **Giancarlo G. Ragozini** (University of Naples Federico II): giragoz@unina.it
 **Matteo Magnani** (Uppsala University): matteo.magnani@it.uu.se 
 **Roberto Interdonato** (CIRAD): roberto.interdonato@cirad.fr 
-**Maria Prosperina Vitale** (University of Salerno): mvitale@unisa.it 
+<a href="mailto:mvitale@unisa.it">**Maria Prosperina Vitale**</a> (University of Salerno): mvitale@unisa.it 
 
 Giuseppe Giordano (University of Salerno): ggiordan@unisa.it 
 In recent years it has become more and more frequent to use network models going beyond simple directed/undirected and weighted/unweighted networks, to capture the complexity of old and new fields of application of network analysis. Multilayer networks are an example of such models, extending graphs with the concept of layer, that allows us to represent a multitude of scenarios from the different types of ties we find in a multiplex network, to different types of actors, to different temporal snapshots of the relations between the same group of actors. Multilayer network models can themselves be enriched with additional features, such as attributes and edge probabilities, with the aim of describing real phenomena in more detail.
