@@ -4,7 +4,7 @@ type: sessions
 ---
 
 The 6th European Conference on Social Networks (EUSN 2022) is hosted by the Networks and Urban Systems Centre at the University of Greenwich and will be held in London, 12-16 September 2022.
-
+</br>
 **Organised Session 01: Advanced Methods for Multilayer and Feature-Rich Networks and Their Applications**
 
   <table>
