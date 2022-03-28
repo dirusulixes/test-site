@@ -11,80 +11,23 @@ type: sessions
     <td><br></td>
   </tr>
   <tr>
-    <td><b>Organised Session 01: Advanced Methods for Multilayer and Feature-Rich Networks and Their Applications</b></td>
+    <td><p align="justify"><b>Organised Session 01: Advanced Methods for Multilayer and Feature-Rich Networks and Their Applications</b></p></td>
   </tr>
    <tr>
      <td><font size="4"><b>Giancarlo G. Ragozini</b> (University of Naples Federico II)*: giragoz@unina.it</font></td>
   </tr>
    <tr>
-    <td><font size="4"><b>Prof. Alessandro Lomi</b>, Università della Svizzera italiana</font></td>
+    <td><p align="left"><font size="4">In recent years it has become more and more frequent to use network models going beyond simple directed/undirected and weighted/unweighted networks, to capture the complexity of old and new fields of application of network analysis. Multilayer networks are an example of such models, extending graphs with the concept of layer, that allows us to represent a multitude of scenarios from the different types of ties we find in a multiplex network, to different types of actors, to different temporal snapshots of the relations between the same group of actors. Multilayer network models can themselves be enriched with additional features, such as attributes and edge probabilities, with the aim of describing real phenomena in more detail.</font></p></td>
+  </tr>
+    <tr>
+    <td></td>
+  </tr>
+   <tr>
+    <td><p align="left"><font size="4">Multilayer and feature-rich networks allow us to introduce new research questions (and corresponding social network analysis measures and methods). For example, instead of asking how central an actor is, we can focus on the role of the different layers in determining the centrality of the actors. Second, existing social network analysis concepts do not always have a clear corresponding extension in complex networks. For example, it is still unclear how communities spanning multiple layers should look like, or how different features should contribute to the definition of communities, or how to effectively visualise multilayer and feature-rich networks, e.g. layers, features or modes, in the same sociogram. In addition, multilayer networks allow to use multiple types of layers (e.g., in temporal multiplex networks), which requires the joint application of methods developed for simpler models (e.g., only temporal, or only multiplex).</font></p></td>
   </tr>
   <tr>
-    <td><br></td>
+    <td><p align="justify"><font size="4">This session focuses on recent advances in the analysis of multilayer and feature-rich networks, either in terms of new research questions, or new methods, or new applications. More specifically, topics for this session include but are not limited to: </font></p></td>
   </tr>
-  <tr>
-    <td><b>Venue</b></td>
-  </tr>
-   <tr>
-    <td><p align="left"><font size="4">Greenwich Campus, University of Greenwich, London.</font></p></td>
-  </tr>
-    <tr>
-    <td></td>
-  </tr>
-   <tr>
-    <td><p align="justify"><font size="4">Greenwich Campus sits on a World Heritage Site and is located in the heart of Greenwich, south-east London. The campus is surrounded by historical landmarks and Greenwich Park.</font></p></td>
-  </tr>
-    <tr>
-    <td></td>
-  </tr>
-     <tr>
-    <td><p align="justify"><font size="4">Both the Stockwell Street Building and the Old Royal Naval College complex will host conference events.</font></p></td>
-  </tr>
-   <tr>
-    <td><br></td>
-  </tr>
-    <tr>
-    <td><b>Committees</b></td>
-  </tr>
-   <tr>
-    <td></td>
-  </tr>
-   <tr>
-    <td></td>
-  </tr>
-     <tr>
-    <td></td>
-  </tr>
-   <tr>
-    <td><font size="4"><b>Organising Committee</b></font></td>
-  </tr>
-   <tr>
-    <td><font size="4">Francesca Pallotti, University of Greenwich</font></td>
-  </tr>
-   <tr>
-    <td><font size="4">Guido Conaldi, University of Greenwich</font></td>
-   </tr>
-    <tr>
-    <td><font size="4">Stefano Ghinoi, University of Greenwich</font></td>
-   </tr>
-    <tr>
-    <td></td>
-  </tr>
-    <tr>
-    <td></td>
-  </tr>
-     <tr>
-   <tr>
-    <td></td>
-  </tr>
-    <td> <font size="4"> <b>Program Committee</b></font></td>
-  </tr>
-       <tr>
-    <td><font size="4">To be announced</font></td>
-  </tr>
-    <tr>
-    <td><br></td>
-  </tr>
-</table>      
+ </table>      
 
 
