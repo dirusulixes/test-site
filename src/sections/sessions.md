@@ -9,7 +9,6 @@ type: sessions
 **Matteo Magnani** (Uppsala University): matteo.magnani@it.uu.se 
 **Roberto Interdonato** (CIRAD): roberto.interdonato@cirad.fr 
 <a href="mailto:mvitale@unisa.it">**Maria Prosperina Vitale**</a> (University of Salerno)
-
 **Giuseppe Giordano** (University of Salerno): ggiordan@unisa.it 
 
 In recent years it has become more and more frequent to use network models going beyond simple directed/undirected and weighted/unweighted networks, to capture the complexity of old and new fields of application of network analysis. Multilayer networks are an example of such models, extending graphs with the concept of layer, that allows us to represent a multitude of scenarios from the different types of ties we find in a multiplex network, to different types of actors, to different temporal snapshots of the relations between the same group of actors. Multilayer network models can themselves be enriched with additional features, such as attributes and edge probabilities, with the aim of describing real phenomena in more detail.
@@ -19,10 +18,10 @@ Multilayer and feature-rich networks allow us to introduce new research question
 This session focuses on recent advances in the analysis of multilayer and feature-rich networks, either in terms of new research questions, or new methods, or new applications. More specifically, topics for this session include but are not limited to:
 
 • New models for multilayer and feature-rich networks, or comparison of alternative models; 
-2) Measures for multilayer and feature-rich network; 
-3) Community discovery in multilayer and feature-rich networks; 
-4) Multilayer and feature-rich network embedding; 
-5) Visualisation of multilayer and feature-rich network; 
-6) Multilayer and feature-rich network simplification (e.g., sampling, filtering, flattening, projections); 
-7) Applications; 
-8) Software. 
+• Measures for multilayer and feature-rich network; 
+• Community discovery in multilayer and feature-rich networks; 
+• Multilayer and feature-rich network embedding; 
+• Visualisation of multilayer and feature-rich network; 
+• Multilayer and feature-rich network simplification (e.g., sampling, filtering, flattening, projections); 
+• Applications; 
+• Software. 
