@@ -60,9 +60,9 @@ small, .small {
   font-size: 80%;
 }
 
-/* a {
+a {
   text-decoration: underline;
-  background-color: transparent;
+  background-color: red;
   -webkit-text-decoration-skip: objects;
 }
 
@@ -83,7 +83,7 @@ a:not([href]):not([tabindex]):hover, a:not([href]):not([tabindex]):focus {
 a:not([href]):not([tabindex]):focus {
   outline: 0;
 }
- */
+
 figure {
   margin: 0 0 1rem;
 }
