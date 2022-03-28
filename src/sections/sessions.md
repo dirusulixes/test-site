@@ -7,29 +7,14 @@ type: sessions
   <tr>
     <td><p align="justify">The 6th European Conference on Social Networks (EUSN 2022) is hosted by the Networks and Urban Systems Centre at the University of Greenwich and will be held in London, 12-16 September 2022.</p></td>
   </tr>
-   <tr>
-    <td><br></td>
-  </tr>
-    <tr>
-    <td><p align="justify">Continuing the traditions of previous conferences in Barcelona (2014), Paris (2016), Mainz (2017), Zurich (2019), and Naples (2021), as well as the legacies of predecessors Applications of Social Network Analysis (ASNA) and UK Social Network Analysis (UKSNA), the conference brings together researchers and practitioners from the social sciences in the broad sense as well as statistics, computer science, data science, physics, economics, humanities, and other areas dealing with network science. </p></td>
-  </tr>
-   <tr>
-    <td><br></td>
-  </tr>
-   <tr>
-    <td><p align="justify">EUSN 2022 is endorsed by INSNA, the International Network for Social Network Analysis.</p></td>
-  </tr>
-     <tr>
-    <td><a title="INSNA" href="https://www.insna.org/" target="_blank" > <img class="my-12 max-w-sm mx-auto" src="/img/INSNA_logo.png" alt="INSNA Logo"></a></td>
-  </tr>
-    <tr>
+  <tr>
     <td><br></td>
   </tr>
   <tr>
-    <td><b>Keynotes</b></td>
+    <td><b>Organised Session 01: Advanced Methods for Multilayer and Feature-Rich Networks and Their Applications</b></td>
   </tr>
    <tr>
-     <td><font size="4"><b>Prof. Kerstin Sailer</b>, University College London</font></td>
+     <td><font size="4"><b>Giancarlo G. Ragozini</b> (University of Naples Federico II)*: giragoz@unina.it</font></td>
   </tr>
    <tr>
     <td><font size="4"><b>Prof. Alessandro Lomi</b>, Università della Svizzera italiana</font></td>
