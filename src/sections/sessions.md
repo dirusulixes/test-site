@@ -13,11 +13,11 @@ Multilayer and feature-rich networks allow us to introduce new research question
 
 This session focuses on recent advances in the analysis of multilayer and feature-rich networks, either in terms of new research questions, or new methods, or new applications. More specifically, topics for this session include but are not limited to:
 
-*- New models for multilayer and feature-rich networks, or comparison of alternative models; 
-*- Measures for multilayer and feature-rich network; 
-*- Community discovery in multilayer and feature-rich networks; 
-*- Multilayer and feature-rich network embedding; 
-*- Visualisation of multilayer and feature-rich network; 
-*- Multilayer and feature-rich network simplification (e.g., sampling, filtering, flattening, projections); 
-*- Applications; 
-*- Software. 
+- - New models for multilayer and feature-rich networks, or comparison of alternative models; 
+- - Measures for multilayer and feature-rich network; 
+- - Community discovery in multilayer and feature-rich networks; 
+- - Multilayer and feature-rich network embedding; 
+- - Visualisation of multilayer and feature-rich network; 
+- - Multilayer and feature-rich network simplification (e.g., sampling, filtering, flattening, projections); 
+- - Applications; 
+- - Software. 
