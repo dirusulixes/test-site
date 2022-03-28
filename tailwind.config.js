@@ -507,11 +507,11 @@ module.exports = {
       9: '2.25rem',
       10: '2.5rem',
     },
-/*     listStyleType: {
+    listStyleType: {
       none: 'none',
-      disc: 'disc',
-      decimal: 'decimal',
-    }, */
+      square: 'square',
+      roman: 'upper-roman',
+    },
     margin: (theme, { negative }) => ({
       auto: 'auto',
       ...theme('spacing'),
