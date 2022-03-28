@@ -3,7 +3,8 @@ title: Organised Sessions
 type: sessions
 ---
 
-**Organised Session 01: Advanced Methods for Multilayer and Feature-Rich Networks and Their Applications**
+<details>
+<summary>**Organised Session 01: Advanced Methods for Multilayer and Feature-Rich Networks and Their Applications**</summary>
 
 **Giancarlo G. Ragozini** (University of Naples Federico II): giragoz@unina.it
 **Matteo Magnani** (Uppsala University): matteo.magnani@it.uu.se 
@@ -25,3 +26,4 @@ This session focuses on recent advances in the analysis of multilayer and featur
 • Multilayer and feature-rich network simplification (e.g., sampling, filtering, flattening, projections); 
 • Applications; 
 • Software. 
+</details>
