@@ -21,7 +21,7 @@ Posters are exhibited during a poster session and reception during the conferenc
 All participants that are going to present a poster will be automatically included into the list of participants to the best poster competition. The winner will receive a prize of £ 500,00.  A Jury will consider the clarity of objectives and research questions; the appropriateness of research design and methods; the quality and impact of the research presented; the poster design and overall visual appeal 
 
 **Submission Guidelines**
-EUSN 2022 uses Microsoft Conference Management Toolkit (CMT) for all submissions. You will need a free CMT account to submit your proposals at <b><a title="https://cmt3.research.microsoft.com/EUSN2022" href="https://cmt3.research.microsoft.com/EUSN2022">https://cmt3.research.microsoft.com/EUSN2022</a></b>.
+EUSN 2022 uses Microsoft Conference Management Toolkit (CMT) for all submissions. You will need a free CMT account to log in and submit your proposals at <b><a title="https://cmt3.research.microsoft.com/EUSN2022" href="https://cmt3.research.microsoft.com/EUSN2022">https://cmt3.research.microsoft.com/EUSN2022</a></b>.
 <!-- <table>
 <tr>
  <td><p align="justify"><b>Call for Organised Sessions and Workshops</b></p></td>
