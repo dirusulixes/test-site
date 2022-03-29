@@ -1,5 +1,5 @@
 ---
-title: Submissions
+title: Call for Proposals
 type: register
 ---
 
