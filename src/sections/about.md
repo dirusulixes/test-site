@@ -9,12 +9,7 @@ Continuing the traditions of previous conferences in Barcelona (2014), Paris (20
 
 EUSN 2022 is endorsed by INSNA, the International Network for Social Network Analysis.
 
-<table>
-     <tr>
-    <td><a title="INSNA" href="https://www.insna.org/" target="_blank" > <img class="my-12 max-w-sm mx-auto" src="/img/INSNA_logo.png" alt="INSNA Logo"></a></td>
-  </tr>
-</table>
-
+<p align="center"><a title="INSNA" href="https://www.insna.org/" target="_blank" > <img class="my-12 max-w-sm mx-auto" src="/img/INSNA_logo.png" alt="INSNA Logo"></a></p>
 
 <p align="center"><b>Keynotes</b></p>
 
@@ -26,24 +21,20 @@ EUSN 2022 is endorsed by INSNA, the International Network for Social Network Ana
 <p align="center"><b>Venue</b></p>
 Greenwich Campus, University of Greenwich, London.
 
-Greenwich Campus sits on a World Heritage Site and is located in the heart of Greenwich, south-east London. The campus is surrounded by historical landmarks and Greenwich Park.
-
-Both the Stockwell Street Building and the Old Royal Naval College complex will host conference events.
+Greenwich Campus sits on a World Heritage Site and is located in the heart of Greenwich, south-east London. The campus is surrounded by historical landmarks and Greenwich Park. Both the Stockwell Street Building and the Old Royal Naval College complex will host conference events.
 
 <p align="center"><b>Committees</b></p>
 
 <p align="center"><b>Organising Committee</b></p>
 
 <p align="center">Francesca Pallotti, University of Greenwich</p>
-
 <p align="center">Guido Conaldi, University of Greenwich</p>
-
 <p align="center">Stefano Ghinoi, University of Greenwich</p>
 
 <p align="center">
 <b>Program Committee</b>  
 
-Viviana Amati, ETH Zurich
+Viviana Amati, ETH Zürich
 Spyros Angelopoulos, Durham University
 Elisa Bellotti, University of Manchester
 Per Block, Oxford
