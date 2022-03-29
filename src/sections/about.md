@@ -26,13 +26,13 @@ type: about
     <td><br></td>
   </tr>
   <tr>
-    <td><b>Keynotes</b></td>
+    <td><p align="center"><b>Keynotes</b></p></td>
   </tr>
    <tr>
-     <td><font size="4"><b>Prof. Kerstin Sailer</b>, University College London</font></td>
+     <td><font size="4"><p align="center"><b>Prof. Kerstin Sailer</b>, University College London</font></p></td>
   </tr>
    <tr>
-    <td><font size="4"><b>Prof. Alessandro Lomi</b>, Università della Svizzera italiana</font></td>
+    <td><font size="4"><p align="center"><b>Prof. Alessandro Lomi</b>, Università della Svizzera italiana</font></p></td>
   </tr>
   <tr>
     <td><br></td>
