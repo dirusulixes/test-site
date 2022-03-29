@@ -295,54 +295,253 @@ We welcome both theoretical and empirical contributions addressing various aspec
 <details>
 <summary><b>Organised Session 13:  Political Networks</b></summary>
 <p>&nbsp;</p>
-</details>
 
-<details>
-<summary><b>Organised Session 14:  Population-scale Social Network Analysis</b></summary>
+Dimitris Christopoulos, Modul University Vienna
+Manuel Fischer, University of Bern 
+Christina Prell, University of Groeningen 
+James Hollway, Graduate Institute, Geneva)
+Petr Ocelik, Masaryk University (petr.ocelik@gmail.com)
 <p>&nbsp;</p>
-</details>
 
-<details>
-<summary><b>Organised Session 15:  Public Policy and Discourse Networks</b></summary>
+We propose an Organized Session on Political Networks. The Session should provide a multidisciplinary space of convergence for scholars that, while holding diverse research interests in the study of politics, policy-making and political behaviour share an analytic approach to network processes in political life, coupled with strong attention to the integration of theory and empirical data. Political networks are conceived of in a broad sense - as defined around political actors, events that are relevant to the political biographies of individuals as well as around the use of digital communication technologies within political dynamics, among others. Thus, ties can consist of exchanges of resources, information, and symbols, as well as of collaborations and communications that may occur both on- and offline. Substantive issues that researchers in political networks have been dealing with are policy networks around climate change on the local, national and international levels, networks of social movement organizations, comparisons of networks across different institutional contexts, or political interactions within new social media, among others.  
 <p>&nbsp;</p>
+
+Organized Sessions on Political Networks have been well frequented at past Sunbelt / EUSN conferences, the session is endorsed by the Standing Group on Political Networks of ECPR (European Consortium on Political Research). 
 </details>
 
-<details>
-<summary><b>Organised Session 16:  Social Cybersecurity: Convergence of Social Network Analysis in Cyber</b></summary>
+<details> 
+<summary><b>Organised Session 14: Population-scale Social Network Analysis</b></summary> 
+<p>&nbsp;</p> 
+  
+**Eszter Bokanyi**, UvA (e.bokanyi@uva.nl) 
+**Laszlo Lorincz**, Corvinus Universtiy 
+**Guilherme K. Chihaya**, Umeå University 
+**Frank Takes**, Leiden University 
+**Eelke Heemskerk**, University of Amsterdam 
+<p>&nbsp;</p> 
+
+Multiple countries set up digital infrastructures to utilize citizen registers for academic research purposes. Recent technological advances make it possible to use these registers as rich resources for population-scale social network analysis by deriving formal ties of people based on, e.g., family, education or employment data. It enables new exciting research of relations at an unprecedented, representative scale, leading to actionable insights into key issues such as segregation, social change, or inequality. This fits in well with EUSN’s goal of providing a platform for the exchange of ideas on social network research. Discussing this novel branch of large-scale social networks, their potentials and limitations with respect to existing methods will likely be beneficial for participants of EUSN. 
+<p>&nbsp;</p> 
+</details>
+
+
+<details> 
+<summary><b>Organised Session 15: Public Policy and Discourse Networks</b></summary> 
+<p>&nbsp;</p> 
+  
+**Philip Leifeld**, University of Essex (philip.leifeld@essex.ac.uk) 
+<p>&nbsp;</p> 
+
+Networks of political actors, such as legislators, interest groups, charities, NGOs, firms, political parties, and government agencies and branches, play a pivotal role in the policy process. They influence agenda setting, engender policy change or promote policy stability, act as backbones of polycentric or multi-level governance systems, and they can vary across institutional settings. In the literature, a variety of networks in public policy has been analysed, including discourse networks/policy debates, information exchange or collaboration among political actors, social media interactions, staff exchange, reputational networks, issue networks, lobbying relationships, and membership in organisations or forums. Policy and discourse networks can produce consequential structures, such as polarised advocacy coalitions, central brokers or opinion leaders, or polycentric clusters. 
+<p>&nbsp;</p> 
+
+This panel invites submissions about applications of network analysis to the study of public policy, applications of discourse network analysis, the intersection between discourse and policy networks, the study of lobbying and interest groups, methodological contributions to the study of policy or discourse networks, and comparisons of networks across institutions, topics, data sources, or relations. 
+<p>&nbsp;</p> 
+</details>
+
+
+<details> 
+<summary><b>Organised Session 16: Social Cybersecurity: Convergence of SNA (Social Network Analysis) in Cyber</b></summary> 
+<p>&nbsp;</p> 
+  
+**Srinidhi Vasudevan**, University of Greenwich (srinidhi.vasudevan@greenwich.ac.uk)
+**Anna Piazza**, University College London
+**Madeline Carr**, University College London
+<p>&nbsp;</p> 
+
+Building on cyber security that specifically focuses on machines and technology, social cyber security is an emerging and interdisciplinary field with perspectives from sociology, communication science, forensics, economics, linguistics, social psychology, and political science to name a few. Social cyber security looks at people, processes and technologies and the interactions between them to identify the influences impacting security behaviours of actors. Social Network Analysis provides a relational approach to provide a context for the creation and maintenance of social relations. Networks are embedded in cyber norms, cultures, values, and behaviours which for instance can vary according to contexts. For instance, cyber information sharing networks can differ across industries and countries, cyber behaviour can be influenced not only by organisational culture and norms but also by the patterns of social interactions among individuals within the organisations, criminal gangs on the Dark Web manipulated by ringleaders and the network topologies, cyber investments determined by interactions between the organisation’s risk appetite and its environment etc. This organized session brings together research that addresses these and related questions through a broad, cyber-network perspective. 
 <p>&nbsp;</p>
+
+To develop ‘social cybersecurity’ as a framework, we solicit methodological, conceptual, and empirical contributions that model, predict, and/or explain how social ties that are created and maintained by actors in a digital environment. 
+<p>&nbsp;</p> 
+
+Topics of interest include but are not limited to the following lines of enquiry: 
+<p>&nbsp;</p> 
+
+• Organised crimes, forensics, criminal behaviour; 
+• Cyber user behaviour and networks; 
+• Diffusion, misinformation, and disinformation; 
+• Mental health of cyber practitioners; 
+• Information sharing networks in cyber; 
+• Governance structure and cyber policy; 
+• Data science, machine learning, natural language processing and agent-based simulation in cyber space; 
+• Contexts of tie creation, maintenance, and dissolution in cyber space; 
+• Organisation and industry pertaining to cyber investment and policy. 
+</details>  
+
+
+<details> 
+<summary><b>Organised Session 17: Social Influence</b></summary> 
+<p>&nbsp;</p> 
+  
+**Andras Voros**, University of Manchester (andras.voros@manchester.ac.uk) 
+**Zsófia Boda**, University of Essex
+<p>&nbsp;</p> 
+
+The empirical study of social influence processes has become an increasingly popular topic in social network research in the past years. Advances in data collection and statistical modelling have made it possible to explore and distinguish various influence processes in longitudinal data on networks and individual behaviour. For instance, it is now possible to study which actors are likely to influence which other actors in a network. Further, we may also compare the influence from specific actors and from being in a certain network position, such as influence from and on popular individuals. Social influence is conceptually not even limited to network-and-behaviour studies. We can also investigate mechanisms of network-network influence, where one (one-mode) network defines what the reference group of social actors is that exerts influence, while another (one- or two-mode) network indicates what is being influenced. In this session, we welcome methodological, theoretical, and applied contributions to the study of social influence in networks, as long as they are relevant for empirical research. 
+<p>&nbsp;</p> 
 </details>
 
-<details>
-<summary><b>Organised Session 17:  Social Influence</b></summary>
+
+
+<details> 
+<summary><b>Organised Session 18: Social Network Analysis and International Business</b></summary> 
+<p>&nbsp;</p> 
+
+**Kim Bui**, University of Greenwich 
+**Pi-Chi Chen**, University of Greenwich
+**Bruce Cronin**, University of Greenwich (C.B.Cronin@gre.ac.uk)
+<p>&nbsp;</p> 
+
+Networks are a central concept in the study of International Business (IB) from supply and value chains to parent-subsidiary relationships and the embeddeness of multinational subsidiaries in host country environments. A core perspective in IB research is the use of a network lens through which firms are conceptualized as “embedded in social networks with other actors” (Andersson, Forsgren, & Holm, 2002; Granovetter, 1985). But while the theory of networks has attracted increasing attention in IB research, the systematic description, modelling and analysis of network relationships has still been scarce in IB research (Kurt & Kurt, 2020). Few studies of international business networks take the concept beyond metaphor. 
+<p>&nbsp;</p> 
+
+Social network analysis (SNA) provides a rich set of mixed methods ability to provide contextual, longitudinal, multilevel, and processual explanations of International Business phenomena (Buchnea & Elsahn, 2022). As such, the incorporation of SNA and IB can be used to understand the path-dependent process of network development and change over time, and the implications of network embeddedness for firms’ behaviour and strategies. This conference track aims not only to incorporate theory of networks in IB research, but also recognise and highlight outstanding use of SNA to investigate pertinent IB phenomena. 
+<p>&nbsp;</p> 
+
+The track therefore seeks to showcase rigorous and trustworthy use of SNA in IB research and question methodological conventions in SNA and IB and promote cutting-edge developments in SNA and IB methodological approaches. The EU Social Networks Conference Social Network Analysis and International Business track welcomes high quality submissions in the form of conceptual and empirical papers that develop new perspectives on SNA in IB that fit the 21st century global landscape. Studies employing a SNA perspective have enriched the understanding of international business, suggested areas of interest include (but not limited to) the following:  
 <p>&nbsp;</p>
-</details>
 
-<details>
-<summary><b>Organised Session 18:  Social Network Analysis and International Business</b></summary>
+• Application of SNA in the speed and characteristics of internationalisation of multinational enterprises (MNEs) (Musteen et al., 2010). 
+• Knowledge exchange and transfer and learning within and outside of MNEs, including HQ- subsidiary relationships (Geppert & Dörrenbächer, 2014; Sandberg, 2014; Khan, Rao-Nicholson & Tarba, 2018). 
+• Types of cross-border relationships (Holm et al., 1996, Pedersen et al., 2019). 
+• Entrepreneurship (Coviello, 2006) and Internationalization of SMEs (Chetty & Holm, 2000). 
+• Exploration on how businesses interact with its environments (Welch & Wilkinson, 2004; Jansson, Johansson & Ramström, 2007). 
+• Corporate political activity and how firms manage the socio-political environment (Elsahn & Benson-Rea, 2018). 
 <p>&nbsp;</p>
-</details>
 
-<details>
-<summary><b>Organised Session 19:  Social Network Analysis and System Science for Social Change</b></summary>
+Further suggested questions and areas of interest include the following:  
 <p>&nbsp;</p>
+
+• What network theories can we develop to address new challenges in IB?  
+• How can we adapt SNA methods for today’s IB research challenges? 
+• How can SNA account for the dynamism and temporality of IB phenomena? 
+<p>&nbsp;</p> 
 </details>
 
-<details>
-<summary><b>Organised Session 20:  Social Networks and Personal Communities in Migration and Migrant Incorporation</b></summary>
-<p>&nbsp;</p>
+
+
+<details> 
+<summary><b>Organised Session 19: Social Network Analysis and System Science for Social Change</b></summary> 
+<p>&nbsp;</p> 
+  
+**Emily Long**, University of Glasgow 
+**Claudia Zucca**, Tilburg University (c.zucca@tilburguniversity.edu)
+**Mark McCann**, University of Glasgow
+<p>&nbsp;</p> 
+
+Many of the problems that researchers and practitioners face every day addressing social, economic, political, and health issues are complex. A complex problem is characterized by the unpredictability of an outcome when we intervene in the system. For instance, promoting a policy to provide jobs for people who are unemployed, while not considering the many reasons they may be unemployed in the first place. In order to address complex problems, the field of system science employs a range of methodologies to intervene in complex systems and produce outcomes that are good for society. Social Network Analysis is one of the methods in the system science toolkit, alongside complementary methods such as agent-based modelling, System Dynamics, system thinking, etc. 
+<p>&nbsp;</p> 
+
+This session will bring together scholars from social network analysis and system science to discuss research aimed at understanding complex systems where variables are intertwined, and outcomes are non-linear. We welcome studies that combine other system science approaches to network analysis, for instance, ABM simulations of social networks or semantic networks derived from causal loop diagrams.  Both qualitative and quantitative research is welcome. 
+<p>&nbsp;</p> 
+
+We are particularly interested in hearing from colleagues whose work is aimed at social change – researchers who collaborate with stakeholders in social, political, economic and health science. For instance, research that addresses problems such as adopting policies, the impact of new laws, effects of inflation, comorbidity of diseases, and the implication of loneliness for young people would be a good fit for this panel. 
+<p>&nbsp;</p> 
 </details>
 
-<details>
-<summary><b>Organised Session 21:  Social Support and Health</b></summary>
-<p>&nbsp;</p>
+
+
+<details> 
+<summary><b>Organised Session 20: Social Networks and Personal Communities in Migration and Migrant Incorporation</b></summary> 
+<p>&nbsp;</p> 
+  
+**Raffaele Vacca**, University of Milan (raffaele.vacca@unimi.it)
+**Başak Bilecen**, University of Groningen
+<p>&nbsp;</p> 
+
+Migration scholars have long called attention to the central role of social and personal networks in shaping migrants’ mobility patterns, migration decisions, incorporation trajectories, and transnational activities. However, while certain network metaphors and notions have always been popular in migration research, the actual collection and analysis of network data has been far less common in this field. A recent special issue of Social Networks showcased the potential of network data and methods, both egocentric and sociocentric, to answer different and fundamental questions in migration studies. This recurring EUSN/Sunbelt session aims to highlight the richness and variety of social network studies of migration and migrant incorporation, and their ability to open up new avenues in theoretical and empirical research in this area. 
+<p>&nbsp;</p> 
+
+We are particularly interested in micro- and meso-level studies of sociocentric or egocentric networks, and their association with migration contexts, environments, and outcomes. Topics of interest include, but are not limited to:  
+<p>&nbsp;</p> 
+
+• The role of social networks in different migration phases (initiation, transit, settlement, etc.); 
+• The composition, structure, size, spatial dispersion, dynamics etc. of migrants’ personal or egocentric networks; 
+• Networks, social support and migrant health; 
+• Networks and ethnic identity, ethnic segregation, or ethnic neighborhoods; 
+• Social relationships and migrant transnationalism; 
+• Social networks in specific migrant populations (e.g. elderly migrants, international students, return migrants); 
+• Network change among migrants and over the migration trajectory; 
+• Comparative studies of networks and migration (e.g., migrants vs. non-migrants, different migrant generations, forced vs. voluntary, documented vs. undocumented, female vs. male migrants, etc.); 
+• Mixed-methods studies of migrants’ social networks.  
+<p>&nbsp;</p> 
 </details>
 
-<details>
-<summary><b>Organised Session 22:  Sustainability and Social Network Analysis</b></summary>
-<p>&nbsp;</p>
+
+<details> 
+<summary><b>Organised Session 21: Social Support and Health</b></summary> 
+<p>&nbsp;</p> 
+  
+**Guy Harling**, University College London (g.harling@ucl.ac.uk)
+<p>&nbsp;</p> 
+
+A key aspect of social networks as they relate to health is the support and advice that flows through the network. This support is connected to, but distinct from, network position/structure itself. We invite abstracts that consider any aspect of social support and health on networks, focusing on what flows through ties as causal mechanisms for network or health status change in individuals. This might include how health-related support is generated within networks, or how it is patterned across networks (e.g. by age, gender, social status). It might also include longitudinal analysis of how support or advice predicts health knowledge, behaviour or outcome, or how health predicts receipt of support. Finally, we would be delighted to include work evaluating how interventions change social support and thus health in a network context. 
+<p>&nbsp;</p> 
+
+In previous iterations, health topics have included substance use, sexual health, mental health and non-communicable health conditions – but other areas of research are welcome. While the sessions have primarily focused on quantitative analysis, qualitative and mixed-method approaches are welcome.  
+<p>&nbsp;</p> 
+
+This session will be populated from submissions to the open call for abstracts for EUSN 2022.  
+<p>&nbsp;</p> 
 </details>
 
-<details>
-<summary><b>Organised Session 23: Teaching Social Network Analysis</b></summary>
+
+
+<details> 
+<summary><b>Organised Session 22: Sustainability and Social Network Analysis</b></summary> 
+<p>&nbsp;</p> 
+  
+**Stefano Ghinoi**, University of Greenwich (S.Ghinoi@greenwich.ac.uk)
+**Riccardo De Vita**, University of Greenwich
+<p>&nbsp;</p> 
+
+In the last years, social network analysis (SNA) has been widely applied in business and economics studies, focusing on different levels of analysis and actors – small and medium enterprises, multinational companies, local and international institutions, and non-governmental organizations. One of the major focal points of the innovative efforts for such actors has been the definition, development, and implementation of sustainable practices, in order to change production paradigms and addressing emerging requests from local communities and policymakers, such as the achievement of the Sustainable Development Goals (SGDs) and the introduction of a circular economy system. 
+<p>&nbsp;</p> 
+
+This session is looking for contributions that specifically concentrate on the application of network theories and methods for investigating the application of sustainable practices. We encourage scholars to submit proposals using both qualitative and quantitative approaches, and drawing on different datasets. Moreover, theoretical contributions and empirical analyses are all welcome, as well as case study papers representing all experiences that have emerged in different regions and countries. Possible topics for article submission include, but are not limited to:  
+<p>&nbsp;</p> 
+
+• Inter- and intra-organizational networks and sustainable practices; 
+• Sustainability policies and networking; 
+• Sustainable Development Goals; 
+• Strategic partnerships for supporting sustainable business innovation; 
+• Circular economy and social network analysis; 
+• Sustainable practices at local level; 
+• Social relationships and social sustainability; 
+• Supply chain management, networks, and sustainability.  
+<p>&nbsp;</p> 
+</details>
+
+
+
+<details> 
+<summary><b>Organised Session 23: Teaching Social Network Analysis</b></summary> 
+<p>&nbsp;</p> 
+  
+**Riccardo De Vita**, University of Greenwich
+**Yasaman Sarabi**, Edinburgh Business School, Heriot-Watt University (y.sarabi@hw.ac.uk)
+**Matthew Smith**, Edinburgh Napier University
+**Guido Conaldi**, University of Greenwich 
+<p>&nbsp;</p> 
+
+More and more institutions across the world now include teaching of Social Network Analysis (SNA) as part of their offer. SNA is taught across different levels and either as a separate subject, often presented as a methodology, or embedded within specific disciplinary contexts. In some cases, SNA is the object of full programmes of study. The emphasis of teaching also varies across institutions, with some modules focusing on the theoretical concepts behind SNA, and others emphasising the use of software to perform SNA. Finally, universities, when introducing SNA concepts and ideas, need to be mindful of the expectations of students and employers, who are often interested in networking and successful networking behaviour in the workplace. Despite the growing popularity of teaching SNA, the SNA community lacks a formal forum to exchange ideas and practices about teaching SNA. This session seeks contributions on teaching SNA, focusing on best practices, challenges, and pedogeological reflections. We aim to create a platform to exchange views about the opportunities and challenges in teaching SNA and establish a first opportunity for teachers of SNA to share their experiences. 
+<p>&nbsp;</p> 
+
+We welcome submissions discussing any issue associated with the teaching of SNA, including but not limited to:  
+<p>&nbsp;</p> 
+
+• Teaching network theory; 
+• Teaching qualitative SNA; 
+• Teaching quantitative SNA; 
+• Teaching software for SNA; 
+• Teaching SNA across different levels (undergraduate, postgraduate, postgraduate research and executive education); 
+• Opportunities, best practices, and challenges of teaching SNA; 
+• Teaching SNA and networking behaviours; 
+• Experiments and SNA; 
+• Teaching SNA in different cultural contexts. 
+<p>&nbsp;</p> 
+
+The contributions could be work in progress or completed studies. We welcome both theoretical and empirical studies, as well as those which are more focused on pedagogical reflections.
 <p>&nbsp;</p>
 </details>
