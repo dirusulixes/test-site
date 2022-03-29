@@ -94,7 +94,7 @@ This session invites papers on personal and family networks during the different
 <summary><b>Organised Session 06:  Modeling Network Dynamics</b></summary>
 <p>&nbsp;</p>
 
-**Nynke Niezink**,Carnegie Mellon University (nniezink@andrew.cmu.edu)
+**Nynke Niezink**, Carnegie Mellon University (nniezink@andrew.cmu.edu)
 **Robert W Krause**, Free University Berlin 
 <p>&nbsp;</p>
 
@@ -168,6 +168,7 @@ This session is dedicated to methodological advancements, empirical applications
 <details>
 <summary><b>Organised Session 09:  Network Analysis and Sports</b></summary>
 <p>&nbsp;</p>
+</details>
 
 <details>
 <summary><b>Organised Session 10:  Networking Historical Past</b></summary>
@@ -188,22 +189,50 @@ This session is dedicated to methodological advancements, empirical applications
 <p>&nbsp;</p>
 </details>
 
-**Organised Session 14:  Population-scale Social Network Analysis**
+<details>
+<summary><b>Organised Session 14:  Population-scale Social Network Analysis</b></summary>
+<p>&nbsp;</p>
+</details>
 
-**Organised Session 15:  Public Policy and Discourse Networks**
+<details>
+<summary><b>Organised Session 15:  Public Policy and Discourse Networks</b></summary>
+<p>&nbsp;</p>
+</details>
 
-**Organised Session 16:  Social Cybersecurity: Convergence of Social Network Analysis in Cyber**
+<details>
+<summary><b>Organised Session 16:  Social Cybersecurity: Convergence of Social Network Analysis in Cyber</b></summary>
+<p>&nbsp;</p>
+</details>
 
-**Organised Session 17:  Social Influence**
+<details>
+<summary><b>Organised Session 17:  Social Influence</b></summary>
+<p>&nbsp;</p>
+</details>
 
-**Organised Session 18:  Social Network Analysis and International Business**
+<details>
+<summary><b>Organised Session 18:  Social Network Analysis and International Business</b></summary>
+<p>&nbsp;</p>
+</details>
 
-**Organised Session 19:  Social Network Analysis and System Science for Social Change**
+<details>
+<summary><b>Organised Session 19:  Social Network Analysis and System Science for Social Change**
 
-**Organised Session 20:  Social Networks and Personal Communities in Migration and Migrant Incorporation**
+<details>
+<summary><b>Organised Session 20:  Social Networks and Personal Communities in Migration and Migrant Incorporation</b></summary>
+<p>&nbsp;</p>
+</details>
 
-**Organised Session 21:  Social Support and Health**
+<details>
+<summary><b>Organised Session 21:  Social Support and Health</b></summary>
+<p>&nbsp;</p>
+</details>
 
-**Organised Session 22:  Sustainability and Social Network Analysis**
+<details>
+<summary><b>Organised Session 22:  Sustainability and Social Network Analysis</b></summary>
+<p>&nbsp;</p>
+</details>
 
-**Organised Session 23: Teaching Social Network Analysis**
+<details>
+<summary><b>Organised Session 23: Teaching Social Network Analysis</b></summary>
+<p>&nbsp;</p>
+</details>
