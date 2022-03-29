@@ -4,12 +4,12 @@ type: register
 ---
 
 
-<p align="center">**Organised sessions: (deadline 25 February 2022)**</p>
+<a align="center">**Organised sessions (deadline 25 February 2022)**</a>
 
 If you would like to contribute by organizing a session focused on a particular topic, please submit a proposal including a description of that topic. Accepted sessions will be included in the submission form for presentations.
 
 
-**Workshops: (deadline 25 February 2022)**
+**Workshops (deadline 25 February 2022)**
 
 Tutorials and other workshops will take place on the first (12th September) and last day (16th September) of the conference. If you are interested in offering either a 3-hour or 6-hour workshop, please submit a proposal including a description of the content and target audience.
 
