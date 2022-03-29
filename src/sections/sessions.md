@@ -67,6 +67,32 @@ The organizers solicit the submission of abstracts dealing with the following to
 <summary><b>Organised Session 03:  Ecosystem of Entrepreneurs</b></summary>
 <p>&nbsp;</p>
 
+**Hetty Wenxian Sun**, Greenwich Business School (w.sun@gre.ac.uk) 
+**Petros Ieromonachou**, University of Greenwich 
+**Aaron Tan**, University of Greenwich 
+<p>&nbsp;</p>
+
+As a network, ecosystems are present and thriving in the world in various forms. This track looks specifically at entrepreneurial ecosystems which relies on people, the culture they bring in and the way they interact with each other. People, as one of the most central parts to support entrepreneurial ecosystems, plays many different roles: policymakers, lawyers, community leaders, investors and so on, and indeed, “entrepreneurship is a community sport” (Whitters, 2014). Great businesses are built by great people, and without high-skilled workers, they would not have surfaced. To continuously supply the entrepreneurial talent, the ecosystem would need to attract, engage and nurture people, especially young people, with skills that could allow them to be more responsive to the business requirements.
+<p>&nbsp;</p>
+
+A diverse culture is the fertilised soil for ecosystems, which enables the production of a broad range of entrepreneurial solutions to issues present in the world and society. This leads to initiatives to solve wider problems such as climate change, global warming and personal security, as well as reducing the unemployment rate, improving public services and boosting mental health. A diverse team often brings in better results (Rock & Grant, 2016) and hence truly drives the growth of the ecosystem. Economic progress is the result of innovations (Holcombe, 2007) and market share is constantly taken by new businesses and ideas. An ecosystem should allow entrepreneurs to experiment with new business models and technologies to achieve growth and during which, plenty of interactions among entrepreneurs, policymakers, investors and competitors will provide a rich context for social network analysis.
+<p>&nbsp;</p>
+
+Sample topics
+The EU Social Networks Conference Ecosystem of Entrepreneur track encourages and welcomes researchers who recognise the difference of ecosystem elements and take particular interest in examining their interactions in the entrepreneurial world contributing to the following themes (but not limited to):
+<p>&nbsp;</p>
+
+• Cultivate ecosystem
+• Cultural and interactive aspects of relationship with policymaker
+• Human capital in the entrepreneurial ecosystem
+• Building community capacity for ecosystem development
+• Entrepreneurship education from an ecosystem perspective
+• Millennial entrepreneur and talent
+• Innovation-driven entrepreneurship ecosystem
+• The role of open innovation
+• Investment ecosystem for start-ups
+• Global ecosystem from a financial and technological perspective
+• Competition and cooperation in entrepreneurial ecosystems
 </details>
 
 <details>
