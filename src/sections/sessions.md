@@ -2,7 +2,7 @@
 title: Organised Sessions
 type: sessions
 ---
-Click anywehre on the session titles to see the organisers and details.
+<p align="center">Click anywehre on the session titles to see the organisers and details.</p>
 
 <details>
 <summary><b>Organised Session 01: Advanced Methods for Multilayer and Feature-Rich Networks and Their Applications</b></summary>
