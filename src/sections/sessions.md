@@ -22,6 +22,7 @@ Multilayer and feature-rich networks allow us to introduce new research question
 <p>&nbsp;</p>
 
 This session focuses on recent advances in the analysis of multilayer and feature-rich networks, either in terms of new research questions, or new methods, or new applications. More specifically, topics for this session include but are not limited to:
+<p>&nbsp;</p>
 
 • New models for multilayer and feature-rich networks, or comparison of alternative models; 
 • Measures for multilayer and feature-rich network; 
