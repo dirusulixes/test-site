@@ -3,22 +3,20 @@ title: Keynotes and Committees
 type: committee
 ---
 
-<p align="center"><b>Keynotes</b></p>
+Keynotes
 
-<p align="center"><b>Prof. Kerstin Sailer</b>, University College London</p>
+**Prof. Kerstin Sailer**, University College London
+**Prof. Alessandro Lomi**, Università della Svizzera italiana
 
-<p align="center"><b>Prof. Alessandro Lomi</b>, Università della Svizzera italiana</p>
+Committees
 
-<p align="center"><b>Committees</b></p>
+Organising Committee
 
-<p align="center"><b>Organising Committee</b></p>
+Francesca Pallotti, University of Greenwich
+Guido Conaldi, University of Greenwich
+Stefano Ghinoi, University of Greenwich
 
-<p align="center">Francesca Pallotti, University of Greenwich</p>
-<p align="center">Guido Conaldi, University of Greenwich</p>
-<p align="center">Stefano Ghinoi, University of Greenwich</p>
-
-<p align="center">
-<b>Program Committee</b>  
+Program Committee 
 
 Viviana Amati, ETH Zürich
 Spyros Angelopoulos, Durham University
