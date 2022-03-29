@@ -102,7 +102,7 @@ The EU Social Networks Conference Ecosystem of Entrepreneur track encourages and
 **Vera de Bel**, University of Turku, Netherlands Interdisciplinary Demographic Institute (vera.debel@utu.fi)
 **Thomas Leopold**, University of Cologne 
 **Marlène Sapin**, LIVES & FORS, University of Lausanne 
-**Eric Widmer**, LIVES, University of Geneva) 
+**Eric Widmer**, LIVES, University of Geneva 
 <p>&nbsp;</p>
 
 Life-course trajectories and transitions are intertwined within the complex webs of family and personal relationships. These networks may provide individual network members with resources, supporting them through life-course events and transitions. However, these networks, depending on their composition or the pattern of interactions, do not only exert a positive influence on the individual members of the network. Family and personal networks may also cause stress or strain on the individual and the network level. In addition, family and personal networks change over time, which may have consequences on the access to resources and may for example affect individual network members’ well-being, behaviour, and life chances. 
@@ -170,7 +170,7 @@ The list is not exhaustive: we are very much open to a wide range of studies on 
 <summary><b>Organised Session 08:  Network Analysis and Bibliometrics</b></summary>
 <p>&nbsp;</p>
 
-**Stefano Ghinoi**, University of Greenwich (S.Ghinoi@greenwich.ac.uk)
+**Stefano Ghinoi**, University of Greenwich (s.ghinoi@greenwich.ac.uk)
 **Guido Conaldi**, University of Greenwich 
 <p>&nbsp;</p>
 
@@ -252,7 +252,7 @@ We welcome submissions about any period, geographical area and topic, which migh
 <p>&nbsp;</p>
 
 **Tomáš Diviák**, University of Manchester (tomas.diviak@manchester.ac.uk)
-**Paolo Campana**, University of Cambridge (pc524@cam.ac.uk)
+**Paolo Campana**, University of Cambridge
 <p>&nbsp;</p>
 
 The importance of social networks for analyzing and explaining criminal behavior has been widely recognized. A wide range of illegal activities, such as drug trafficking, human smuggling, or terrorism requires coordination among offenders to be successfully performed. It is not surprising, therefore, that the network perspective on crime has recently gained popularity, both among academics and law enforcement practitioners, as it captures the essence of such activities. 
