@@ -183,6 +183,7 @@ This session is dedicated to methodological advancements, empirical applications
 <details>
 <summary><b>Organised Session 12:  Organizational Networks</b></summary>
 <p>&nbsp;</p>
+</details>
 
 <details>
 <summary><b>Organised Session 13:  Political Networks</b></summary>
