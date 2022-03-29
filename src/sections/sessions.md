@@ -112,7 +112,7 @@ This session invites papers on personal and family networks during the different
 </details>
 
 <details>
-<summary><b>Organised Session 05:  Methodological and software advancements in Social Network Analysis</b></summary>
+<summary><b>Organised Session 05:  Methodological and Software Advancements in Social Network Analysis</b></summary>
 <p>&nbsp;</p>
 </details>
 
