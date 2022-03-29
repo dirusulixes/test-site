@@ -4,9 +4,8 @@ type: register
 ---
 
 
-**<p align="center">Organised sessions</p>**
-
-## (deadline 25 February 2022)
+**<p align="center"><font size="5">Organised sessions</font></p>**
+**<p align="center">deadline 25 February 2022</p>**
 
 If you would like to contribute by organizing a session focused on a particular topic, please submit a proposal including a description of that topic. Accepted sessions will be included in the submission form for presentations.
 
