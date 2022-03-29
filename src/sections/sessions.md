@@ -118,7 +118,7 @@ Keywords: network dynamics, longitudinal networks, actor-oriented models, networ
 
 The importance of multiplexity is increasingly recognised in (educational) network research. While research into the effects of peer networks has traditionally focused on a single network dimension at a time, most commonly on friendship, this approach has been shifting lately. 
 <p>&nbsp;</p>
-v
+
 A wave of studies in recent years has showed how multiple forms of social ties emerge between students and affect a variety of their outcomes. Relevant networks include personal relations such as liking or “friendly” ties, spending free-time together, studying together, dislike, conflict, victimisation, and romantic ties. Besides these, interpersonal perceptions appear to have an impact on student behaviour and outcomes as well: such as perceptions about the status, social roles, or personality of peers. 
 <p>&nbsp;</p>
 
