@@ -341,7 +341,7 @@ This panel invites submissions about applications of network analysis to the stu
 
 
 <details> 
-<summary><b>Organised Session 16: Social Cybersecurity: Convergence of SNA (Social Network Analysis) in Cyber</b></summary> 
+<summary><b>Organised Session 16: Social Cybersecurity: Convergence of Social Network Analysis in Cyber</b></summary> 
 <p>&nbsp;</p> 
   
 **Srinidhi Vasudevan**, University of Greenwich (srinidhi.vasudevan@greenwich.ac.uk)
