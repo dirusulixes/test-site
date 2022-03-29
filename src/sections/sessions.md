@@ -216,7 +216,9 @@ This session is dedicated to methodological advancements, empirical applications
 </details>
 
 <details>
-<summary><b>Organised Session 19:  Social Network Analysis and System Science for Social Change**
+<summary><b>Organised Session 19:  Social Network Analysis and System Science for Social Change</b></summary>
+<p>&nbsp;</p>
+</details>
 
 <details>
 <summary><b>Organised Session 20:  Social Networks and Personal Communities in Migration and Migrant Incorporation</b></summary>
