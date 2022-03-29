@@ -30,11 +30,11 @@ This session focuses on recent advances in the analysis of multilayer and featur
 
 **Organised Session 01: Advanced Methods for Multilayer and Feature-Rich Networks and Their Applications**</summary>
 
-**Giancarlo G. Ragozini** (University of Naples Federico II): giragoz@unina.it
-**Matteo Magnani** (Uppsala University): matteo.magnani@it.uu.se 
-**Roberto Interdonato** (CIRAD): roberto.interdonato@cirad.fr 
-<a href="mailto:mvitale@unisa.it">**Maria Prosperina Vitale**</a> (University of Salerno)
-**Giuseppe Giordano** (University of Salerno): ggiordan@unisa.it 
+**Giancarlo G. Ragozini**, University of Naples Federico II (giragoz@unina.it)
+**Matteo Magnani**, Uppsala University
+**Roberto Interdonato**, CIRAD
+**Maria Prosperina Vitale**, University of Salerno
+**Giuseppe Giordano**, University of Salerno
 
 In recent years it has become more and more frequent to use network models going beyond simple directed/undirected and weighted/unweighted networks, to capture the complexity of old and new fields of application of network analysis. Multilayer networks are an example of such models, extending graphs with the concept of layer, that allows us to represent a multitude of scenarios from the different types of ties we find in a multiplex network, to different types of actors, to different temporal snapshots of the relations between the same group of actors. Multilayer network models can themselves be enriched with additional features, such as attributes and edge probabilities, with the aim of describing real phenomena in more detail.
 
@@ -52,6 +52,28 @@ This session focuses on recent advances in the analysis of multilayer and featur
 • Software. 
 
 **Organised Session 02:  Collaboration Networks**
+Giancarlo G. Ragozini (University of Naples Federico II)*: giragoz@unina.it 
+Maria Prosperina Vitale (University of Salerno): mvitale@unisa.it 
+Giuseppe Giordano (University of Salerno): ggiordan@unisa.it 
+
+Collaboration networks attract a lot of attention in many scientific domains. The session focuses on presenting methodological developments and novel applications related to the session topics. 
+
+Special interest is on the analysis of collaboration networks in presence of complex data structure, and on collaboration data extraction and empirical data collection. 
+
+The organizers solicit the submission of abstracts dealing with the following topics: 
+• Academic and scientific networks; 
+• Analysis of collaboration networks in economics, cultural and social environments; 
+Co-authorship networks; 
+
+Collaborative innovation networks; 
+
+Community detection in collaboration networks; 
+
+Dynamics and evolution patterns of collaboration networks; 
+
+Empirical data collection; 
+
+Mixed methods for data collection and data analysis. 
 
 **Organised Session 03:  Ecosystem of Entrepreneurs**
 
