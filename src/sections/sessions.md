@@ -390,7 +390,7 @@ The empirical study of social influence processes has become an increasingly pop
 
 **Kim Bui**, University of Greenwich 
 **Pi-Chi Chen**, University of Greenwich
-**Bruce Cronin**, University of Greenwich (C.B.Cronin@gre.ac.uk)
+**Bruce Cronin**, University of Greenwich (c.b.cronin@gre.ac.uk)
 <p>&nbsp;</p> 
 
 Networks are a central concept in the study of International Business (IB) from supply and value chains to parent-subsidiary relationships and the embeddeness of multinational subsidiaries in host country environments. A core perspective in IB research is the use of a network lens through which firms are conceptualized as “embedded in social networks with other actors” (Andersson, Forsgren, & Holm, 2002; Granovetter, 1985). But while the theory of networks has attracted increasing attention in IB research, the systematic description, modelling and analysis of network relationships has still been scarce in IB research (Kurt & Kurt, 2020). Few studies of international business networks take the concept beyond metaphor. 
@@ -492,7 +492,7 @@ This session will be populated from submissions to the open call for abstracts f
 <summary><b>Organised Session 22: Sustainability and Social Network Analysis</b></summary> 
 <p>&nbsp;</p> 
   
-**Stefano Ghinoi**, University of Greenwich (S.Ghinoi@greenwich.ac.uk)
+**Stefano Ghinoi**, University of Greenwich (s.ghinoi@greenwich.ac.uk)
 **Riccardo De Vita**, University of Greenwich
 <p>&nbsp;</p> 
 
