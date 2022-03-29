@@ -3,6 +3,7 @@ title: Calls for Proposals
 type: register
 ---
 
+<p align="center">All deadlines are on 12 midnight End of Day, Anywhere on Earth</p>
 
 **<p align="center"><font size="5">Organised sessions (deadline 25 February 2022)</font></p>**
 If you would like to contribute by organizing a session focused on a particular topic, please submit a proposal including a description of that topic. Accepted sessions will be included in the submission form for presentations.
