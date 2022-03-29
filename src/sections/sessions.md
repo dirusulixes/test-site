@@ -73,10 +73,10 @@ The organizers solicit the submission of abstracts dealing with the following to
 <summary><b>Organised Session 04:  Family Networks and Personal Networks Through the Life-course</b></summary>
 <p>&nbsp;</p>
 
-Vera de Bel, University of Turku, Netherlands Interdisciplinary Demographic Institute (vera.debel@utu.fi)
-Thomas Leopold, University of Cologne 
-Marlène Sapin, LIVES & FORS, University of Lausanne 
-Eric Widmer, LIVES, University of Geneva) 
+**Vera de Bel**, University of Turku, Netherlands Interdisciplinary Demographic Institute (vera.debel@utu.fi)
+**Thomas Leopold**, University of Cologne 
+**Marlène Sapin**, LIVES & FORS, University of Lausanne 
+**Eric Widmer**, LIVES, University of Geneva) 
 <p>&nbsp;</p>
 
 Life-course trajectories and transitions are intertwined within the complex webs of family and personal relationships. These networks may provide individual network members with resources, supporting them through life-course events and transitions. However, these networks, depending on their composition or the pattern of interactions, do not only exert a positive influence on the individual members of the network. Family and personal networks may also cause stress or strain on the individual and the network level. In addition, family and personal networks change over time, which may have consequences on the access to resources and may for example affect individual network members’ well-being, behaviour, and life chances. 
@@ -93,6 +93,7 @@ This session invites papers on personal and family networks during the different
 <details>
 <summary><b>Organised Session 06:  Modeling Network Dynamics</b></summary>
 <p>&nbsp;</p>
+
 **Nynke Niezink**,Carnegie Mellon University (nniezink@andrew.cmu.edu)
 **Robert W Krause**, Free University Berlin 
 <p>&nbsp;</p>
