@@ -245,10 +245,10 @@ Keywords: covert networks, criminology, methodological innovation, co-offending,
 <summary><b>Organised Session 12:  Organizational Networks</b></summary>
 <p>&nbsp;</p>
 
-Spyros Angelopoulos, Durham University (spyros.angelopoulos@durham.ac.uk)
-Emmanuel Lazega, SciencesPo 
-Francesca Pallotti, University of Greenwich
-Paola Zappa, Maynooth University 
+**Spyros Angelopoulos**, Durham University (spyros.angelopoulos@durham.ac.uk)
+**Emmanuel Lazega**, SciencesPo 
+**Francesca Pallotti**, University of Greenwich
+**Paola Zappa**, Maynooth University 
 <p>&nbsp;</p>
 
 The networked nature of organizations, and the organizational contexts of network dynamics create a complex ecosystem where individuals, groups, units, and other organizations are entangled and recursively active. Such entanglement shapes organizations in a dynamic way and affects their outcomes at multiple levels. 
