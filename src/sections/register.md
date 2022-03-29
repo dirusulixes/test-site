@@ -24,6 +24,7 @@ Posters will be exhibited during a poster session and reception at the conferenc
 <p>&nbsp;</p>
 
 **<p align="center"><font size="5">Submission Guidelines</p></font>**
-EUSN 2022 uses Microsoft Conference Management Toolkit (CMT) for all submissions. Authors will need a free CMT account to log in and submit their proposals at **<a title="https://cmt3.research.microsoft.com/EUSN2022" href="https://cmt3.research.microsoft.com/EUSN2022">https://cmt3.research.microsoft.com/EUSN2022</a>**.
+EUSN 2022 uses Microsoft Conference Management Toolkit (CMT) for all submissions. 
+Authors will need a free CMT account to log in and submit their proposals at **<a title="https://cmt3.research.microsoft.com/EUSN2022" href="https://cmt3.research.microsoft.com/EUSN2022">https://cmt3.research.microsoft.com/EUSN2022</a>**.
 
 Please do not hesitate to email us at **eusn2022@gre.ac.uk** if you have any questions.
