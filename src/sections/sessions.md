@@ -7,6 +7,7 @@ Click anywehre on the session titles to see the organisers and details.
 <details>
 <summary><b>Organised Session 01: Advanced Methods for Multilayer and Feature-Rich Networks and Their Applications</b></summary>
 
+<p>&nbsp;</p>
 **Giancarlo G. Ragozini**, University of Naples Federico II (giragoz@unina.it)
 **Matteo Magnani**, Uppsala University
 **Roberto Interdonato**, CIRAD
