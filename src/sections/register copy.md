@@ -1,5 +1,4 @@
 ---
-title: Call for Proposals
 type: register
 ---
 
