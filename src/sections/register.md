@@ -3,7 +3,26 @@ title: Call for Proposals
 type: register
 ---
 
-<table>
+
+**Organised sessions: (deadline 25 February 2022)**
+
+If you would like to contribute by organizing a session focused on a particular topic, please submit a proposal including a description of that topic. Accepted sessions will be included in the submission form for presentations.
+
+**Workshops: (deadline 25 February 2022)**
+
+Tutorials and other workshops will take place on the first (12th September) and last day (16th September) of the conference. If you are interested in offering either a 3-hour or 6-hour workshop, please submit a proposal including a description of the content and target audience.
+
+**Presentations (opens 30 March 2022, deadline 8 May 2022)**
+Presentations are allocated 15 minutes plus 5 minutes for discussion. Any topic relevant to social network analysis, including theory, methods, and empirical applications will be considered. Abstracts are limited to 500 words, not including the title, and should not contain references.  
+
+**Posters (opens 2 May 2022, deadline 24 June 2022)**
+Posters are exhibited during a poster session and reception during the conference. 
+
+All participants that are going to present a poster will be automatically included into the list of participants to the best poster competition. The winner will receive a prize of £ 500,00.  A Jury will consider the clarity of objectives and research questions; the appropriateness of research design and methods; the quality and impact of the research presented; the poster design and overall visual appeal 
+
+**Submission Guidelines**
+EUSN 2022 uses Microsoft Conference Management Toolkit (CMT) for all submissions. You will need a free CMT account to submit your proposals at <b><a title="https://cmt3.research.microsoft.com/EUSN2022" href="https://cmt3.research.microsoft.com/EUSN2022">https://cmt3.research.microsoft.com/EUSN2022</a></b>.
+<!-- <table>
 <tr>
  <td><p align="justify"><b>Call for Organised Sessions and Workshops</b></p></td>
 </tr>
@@ -77,3 +96,4 @@ type: register
  <td><p align="justify">Registrations are expected to open in late Spring 2022.</p></td>
 </tr>
   </table>
+ -->
