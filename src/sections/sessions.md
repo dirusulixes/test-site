@@ -61,6 +61,7 @@ The organizers solicit the submission of abstracts dealing with the following to
 • Dynamics and evolution patterns of collaboration networks; 
 • Empirical data collection; 
 • Mixed methods for data collection and data analysis. 
+</details>
 
 <details>
 <summary><b>Organised Session 03:  Ecosystem of Entrepreneurs</b></summary>
