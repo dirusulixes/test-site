@@ -227,6 +227,7 @@ We welcome submissions about any period, geographical area and topic, which migh
 
 **Tomáš Diviák**, University of Manchester (tomas.diviak@manchester.ac.uk)
 **Paolo Campana**, University of Cambridge (pc524@cam.ac.uk)
+<p>&nbsp;</p>
 
 The importance of social networks for analyzing and explaining criminal behavior has been widely recognized. A wide range of illegal activities, such as drug trafficking, human smuggling, or terrorism requires coordination among offenders to be successfully performed. It is not surprising, therefore, that the network perspective on crime has recently gained popularity, both among academics and law enforcement practitioners, as it captures the essence of such activities. 
 <p>&nbsp;</p>
@@ -243,6 +244,26 @@ Keywords: covert networks, criminology, methodological innovation, co-offending,
 <details>
 <summary><b>Organised Session 12:  Organizational Networks</b></summary>
 <p>&nbsp;</p>
+
+Spyros Angelopoulos, Durham University (spyros.angelopoulos@durham.ac.uk)
+Emmanuel Lazega, SciencesPo 
+Francesca Pallotti, University of Greenwich
+Paola Zappa, Maynooth University 
+<p>&nbsp;</p>
+
+The networked nature of organizations, and the organizational contexts of network dynamics create a complex ecosystem where individuals, groups, units, and other organizations are entangled and recursively active. Such entanglement shapes organizations in a dynamic way and affects their outcomes at multiple levels. 
+<p>&nbsp;</p>
+
+This session aims to bring together studies on organizational networks addressing antecedents, dynamics, and implications of the cross-level processes leading to the emergence of relations and outcomes at various levels. Submissions can refer, but are not limited, to the following areas of research: 
+<p>&nbsp;</p>
+
+• Micro-foundations of organizational networks: how individual characteristics and cognition affect the emergence of network structures and how these network structures affect individuals; 
+• Dynamics of organizational networks: how network structures at various levels co-evolve and affect one another, as well as organizational processes and outcomes; 
+• Time-dependence in organizational networks: how organizational networks at various levels change at different paces over time; 
+• Overlap and interplay between social and other kinds of networks within and across organizational settings: how organizational networks are affected by the affiliation of individuals, or organizations to events or contexts. 
+<p>&nbsp;</p>
+
+We welcome both theoretical and empirical contributions addressing various aspects and implications of organizational networks research. 
 </details>
 
 <details>
