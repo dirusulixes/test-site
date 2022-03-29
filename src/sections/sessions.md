@@ -39,9 +39,9 @@ This session focuses on recent advances in the analysis of multilayer and featur
 <summary><b>Organised Session 02:  Collaboration Networks</b></summary>
 <p>&nbsp;</p>
 
-Giancarlo G. Ragozini, University of Naples Federico II (giragoz@unina.it)
-Maria Prosperina Vitale, University of Salerno
-Giuseppe Giordano, University of Salerno
+**Giancarlo G. Ragozini**, University of Naples Federico II (giragoz@unina.it)
+**Maria Prosperina Vitale**, University of Salerno
+**Giuseppe Giordano**, University of Salerno
 <p>&nbsp;</p>
 
 Collaboration networks attract a lot of attention in many scientific domains. The session focuses on presenting methodological developments and novel applications related to the session topics. 
