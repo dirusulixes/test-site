@@ -101,8 +101,5 @@ type: about
     <td><br></td>
   </tr>
 </table>      
-<div class="row">
-  <div class="column">Test</div>
-  <div class="column">Test</div>
-</div>
+
 
