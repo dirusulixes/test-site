@@ -18,9 +18,9 @@ EUSN 2022 is endorsed by INSNA, the International Network for Social Network Ana
 
 <p align="center"><b>Keynotes</b></p>
 
-<p align="center"><font size="4"><b>Prof. Kerstin Sailer</b>, University College London</font></p>
+<p align="center"><b>Prof. Kerstin Sailer</b>, University College London</p>
 
-<p align="center"><font size="4"><b>Prof. Alessandro Lomi</b>, Università della Svizzera italiana</font></p>
+<p align="center"><b>Prof. Alessandro Lomi</b>, Università della Svizzera italiana</p>
 
 
 <p align="center"><b>Venue</b></p>
@@ -32,15 +32,16 @@ Both the Stockwell Street Building and the Old Royal Naval College complex will 
 
 <p align="center"><b>Committees</b></p>
 
-<p align="center"><font size="4"><b>Organising Committee</b></font></p>
+<p align="center"><b>Organising Committee</b></p>
 
-<p align="center"><font size="4">Francesca Pallotti, University of Greenwich</font></p>
+<p align="center">Francesca Pallotti, University of Greenwich</p>
 
-<p align="center"><font size="4">Guido Conaldi, University of Greenwich</font></p>
+<p align="center">Guido Conaldi, University of Greenwich</p>
 
-<p align="center"><font size="4">Stefano Ghinoi, University of Greenwich</font></p>
+<p align="center">Stefano Ghinoi, University of Greenwich</p>
 
-<p align="center"><font size="4"> <b>Program Committee</b></font></p>    
+<p align="center">
+<b>Program Committee</b>  
 
 Viviana Amati, ETH Zurich
 Spyros Angelopoulos, Durham University
@@ -70,3 +71,4 @@ Paola Tubaro, CNRS
 Maria Vitale, University of Salerno
 Susanna Zaccarin, University of Trieste
 Paola Zappa, Maynooth University
+</p>
