@@ -15,6 +15,8 @@ Tutorials and other workshops will take place on the first (12th September) and 
 
 **<p align="center"><font size="5">Presentations (deadline 8 May 2022)</font></p>**
 Presentations are allocated 15 minutes plus 5 minutes for discussion. Any topic relevant to social network analysis, including theory, methods, and empirical applications will be considered. Abstracts are limited to 500 words, not including the title, and should not contain references.  
+
+When submitting their presentation proposal, authors will be asked to indicate the organised session they are submitting to by selecting one (only) subject area and to designate a Primary Contact. The Primary Contact will become the corresponding author and will be considered the designated presenter at the conference. Please be reminded that at EUSN 2022 participants are restricted to one presentation but may be co-authors of multiple submissions.
 <p>&nbsp;</p>
 
 **<p align="center"><font size="5">Posters (deadline 24 June 2022)</font></p>**
@@ -23,5 +25,3 @@ Posters are exhibited during a poster session and reception during the conferenc
 
 **<p align="center"><font size="5">Submission Guidelines</p></font>**
 EUSN 2022 uses Microsoft Conference Management Toolkit (CMT) for all submissions. Authors will need a free CMT account to log in and submit their proposals at <a title="https://cmt3.research.microsoft.com/EUSN2022" href="https://cmt3.research.microsoft.com/EUSN2022">https://cmt3.research.microsoft.com/EUSN2022</a>.
-
-When submitting their presentation proposal, authors will be asked to indicate the organised session they are submitting to by selecting one (only) subject area and to designate a Primary Contact. The Primary Contact will become the corresponding author and will be considered the designated presenter at the conference. Please be reminded that at EUSN 2022 participants are restricted to one presentation but may be co-authors of multiple submissions.
