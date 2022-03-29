@@ -168,16 +168,76 @@ This session is dedicated to methodological advancements, empirical applications
 <details>
 <summary><b>Organised Session 09:  Network Analysis and Sports</b></summary>
 <p>&nbsp;</p>
+
+**Lucio Palazzo**, University of Naples Federico II (lucio.palazzo@unina.it)
+**Roberto Rondinelli**, University of Naples Federico II 
+**Filipe Manuel Clemente**, Viana do Castelo Polytechnic Institute 
+**Kristijan Breznik**, International School for Social and Business Studies
+**Riccardo Ievoli**, University of Ferrara 
+<p>&nbsp;</p>
+
+The analysis of sport data is becoming truly helpful for recognizing the strengths and weaknesses of individual players and collective behaviors of teams. Using such information is possible to make better decisions and organize the strategy to achieve greater success both in terms of sport results and economic aspects. Therefore, the rise of sport analytics tools mixed with the availability of data allow the spread of innovative methodologies in a broad range of sports. In this context, relational data are also arising.  
+<p>&nbsp;</p>
+
+The proposed session focuses on contributions regarding network analysis in sport data. Between the possible topics, network analysis may help to unveil the key elements regarding tactics and/or team strategies in team sports. Furthermore, connections between teams (e.g. trading and exchanges) and/or federations cover an important role and may contribute to sport results. The search of appropriate methodologies to deal with those data remains an open issue. 
+<p>&nbsp;</p>
+
+The audience of interest may include experts in statistics, operations research, machine learning, scientific computing, economics, sports management, and sport science interested in expanding these topics in a network perspective. Audience members will become aware of the most current thinking on common problems of interest in network modeling or analysis of sports data. 
+<p>&nbsp;</p>
+
+The session welcomes empirical, methodological and/or theoretical contributions exploiting the role of Network Analysis in sports, including (but not limited to): 
+<p>&nbsp;</p>
+
+• Local network structures; 
+• Temporal networks; 
+• Network indicators and sport outcomes; 
+• Signed networks; 
+• Multimodal networks; 
+• Multilayer networks; 
+• Complex networks. 
+
+Innovative approaches of network analysis for popular team sports (e.g., football, basketball, and volleyball) as well as original applications based on less known sports are also welcome. 
+<p>&nbsp;</p>
 </details>
 
 <details>
 <summary><b>Organised Session 10:  Networking Historical Past</b></summary>
 <p>&nbsp;</p>
+
+**Paolo Cimadomo**, University of Haifa (cimadomopaolo@gmail.com)
+**Anna Collar**, University of Southampton 
+**Maria Carmela Schisani**, University of Naples Federico II 
+<p>&nbsp;</p>
+
+The network perspective has currently reached a paradigmatic position in some fields, like sociology. Moreover, during recent years we have seen a steady increase of publications and works on a number of economic, social, cultural and religious aspects that have attempted to apply network analysis to the past world, in particular to explain their interconnections. Network analysis attracted scholars of human past for their potential in investigating human relationships, visualising and exploring their structures among different archaeological and historical sources. Archaeological and historical data sources pose challenging opportunities to network analysts and network scientists. World-Systems Analysis has especially emphasized the importance of understanding interactions and interrelationships between different peoples or inside the same human group. 
+<p>&nbsp;</p>
+
+The aim of this session is twofold. Firstly, we want to work towards a specific historical and archaeological network analysis, drawing on the relational thinking of network theory and incorporating archaeological and historical sources critique and reasoning. Secondly, we want to present new findings and approaches within historical and archaeological network research, and promote contacts between the various disciplines that approach past phenomena using methods derived from network analysis or network science. 
+<p>&nbsp;</p>
+
+The session invites contributions from various disciplines applying the methods of formal network analysis and network science to the study of the historical research. The contributions will answer questions such as: how can we detect change in human networks change over a long timeframe? How can literary and historical sources and material culture help in answering this question? 
+<p>&nbsp;</p>
+
+We welcome submissions about any period, geographical area and topic, which might include but are not limited to: economics, politics, military issues, religion and science, interpersonal relations, kinship, cultural networks, artistic transmission, material and immaterial connections, migration, networks extracted from texts, geospatial or temporal networks, big data and data collection from fragmentated sources. 
 </details>
 
 <details>
 <summary><b>Organised Session 11:  Networks and Crime</b></summary>
 <p>&nbsp;</p>
+
+**Tomáš Diviák**, University of Manchester (tomas.diviak@manchester.ac.uk)
+**Paolo Campana**, University of Cambridge (pc524@cam.ac.uk)
+
+The importance of social networks for analyzing and explaining criminal behavior has been widely recognized. A wide range of illegal activities, such as drug trafficking, human smuggling, or terrorism requires coordination among offenders to be successfully performed. It is not surprising, therefore, that the network perspective on crime has recently gained popularity, both among academics and law enforcement practitioners, as it captures the essence of such activities. 
+<p>&nbsp;</p>
+
+However, the study of criminal networks is challenging. Data collection is difficult in situations where subjects themselves aim not to be detected. Gathering first-hand evidence on such phenomena is therefore extremely difficult, and in some cases dangerous. Scholars have thus relied on police data, such as arrests, or investigative evidence, such as electronic surveillance or phone records, to build an empirical base for their analysis. A second challenge is methodological, i.e. matching/developing the right statistical models based on the specificities of criminal networks to adequately test criminological theories, allowing to move beyond descriptive network measures. 
+<p>&nbsp;</p>
+
+This session is dedicated to innovative research at the intersection of network analysis and criminology. We welcome a wide range of submissions focused on criminal networks, including methodological, theoretical, and empirical studies. Topics may include: collection of criminal network data, testing theories of co-offending, victimizations and violence using network data, case studies of specific criminal groups, and statistical modelling tailored to the complexities of criminal network data. 
+<p>&nbsp;</p>
+
+Keywords: covert networks, criminology, methodological innovation, co-offending, violence, organised crime, illegal markets, criminal networks, terrorist networks.  
 </details>
 
 <details>
