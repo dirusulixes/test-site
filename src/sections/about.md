@@ -38,7 +38,7 @@ type: about
     <td><br></td>
   </tr>
   <tr>
-    <td><b>Venue</b></td>
+    <td><p align="center"><b>Venue</b></p></td>
   </tr>
    <tr>
     <td><p align="left"><font size="4">Greenwich Campus, University of Greenwich, London.</font></p></td>
@@ -59,7 +59,7 @@ type: about
     <td><br></td>
   </tr>
     <tr>
-    <td><b>Committees</b></td>
+    <td><p align="center"><b>Committees</b></p></td>
   </tr>
    <tr>
     <td></td>
@@ -71,16 +71,16 @@ type: about
     <td></td>
   </tr>
    <tr>
-    <td><font size="4"><b>Organising Committee</b></font></td>
+    <td><p align="center"><font size="4"><b>Organising Committee</b></font></p></td>
   </tr>
    <tr>
-    <td><font size="4">Francesca Pallotti, University of Greenwich</font></td>
+    <td><p align="center"><font size="4">Francesca Pallotti, University of Greenwich</font></p></td>
   </tr>
    <tr>
-    <td><font size="4">Guido Conaldi, University of Greenwich</font></td>
+    <td><p align="center"><font size="4">Guido Conaldi, University of Greenwich</font></p></td>
    </tr>
     <tr>
-    <td><font size="4">Stefano Ghinoi, University of Greenwich</font></td>
+    <td><p align="center"><font size="4">Stefano Ghinoi, University of Greenwich</font></p></td>
    </tr>
     <tr>
     <td></td>
@@ -92,10 +92,10 @@ type: about
    <tr>
     <td></td>
   </tr>
-    <td> <font size="4"> <b>Program Committee</b></font></td>
+    <td><p align="center"><font size="4"> <b>Program Committee</b></font></p></td>
   </tr>
        <tr>
-    <td><font size="4">To be announced</font></td>
+    <td><p align="center"><font size="4">To be announced</font></p></td>
   </tr>
     <tr>
     <td><br></td>
