@@ -22,7 +22,7 @@ When submitting their presentation proposal, authors will be asked to indicate t
 
 **<p align="center"><font size="5">Posters</font></p>**
 **<p align="center">Deadline 12 June 2022, 12 midnight AoE</p>**
-Posters will be exhibited during a poster session and reception at the conference. All posters will take part in the EUSN 2022 Poster Competition. The winner will receive a prize of £500. The evaluation criteria the selected judges will adopt are: the clarity of objectives and research questions; the appropriateness of research design and methods; the quality and impact of the research presented; the poster design and overall visual appeal.
+Posters will be exhibited during a poster session and reception at the conference. All posters will take part in the EUSN 2022 Poster Competition. The winner will receive a prize of £500. The evaluation criteria the selected judges will adopt are: clarity of objectives and research questions; appropriateness of research design and methods; quality and impact of the research presented; poster design and overall visual appeal.
 
 <div class="flex flex-row w-full justify-center pt-6">
 <a class="px-10 py-2 text-gray-200 bg-eusnblue rounded-full shadow-md text-lg hover:bg-gray-800 hover:border-red" href="https://cmt3.research.microsoft.com/EUSN2022" target="_blank">Submit Now</a>
