@@ -32,7 +32,6 @@ Bernie Hogan, University of Oxford
 Luka Kronegger, University of Ljubljana Faculty of social sciences
 Miranda Lubbers, Autonomous University of Barcelona
 Matteo Magnani, Uppsala University
-José Molina, UAB Barcelona
 Sophie Mützel, UniLu
 Juergen Pfeffer, Technical University of Munich
 Yasaman Sarabi, Edinburgh Business School Heriot-Watt University 
