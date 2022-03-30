@@ -15,4 +15,5 @@ EUSN 2022 is endorsed by INSNA, the International Network for Social Network Ana
 
 The conference with be held at <a href="https://www.gre.ac.uk/about-us/campus/greenwich">Greenwich Campus, University of Greenwich, London</a>.
 
-Greenwich Campus sits on a World Heritage Site and is located in the heart of Greenwich, south-east London. The campus is surrounded by historical landmarks and Greenwich Park. Both the Stockwell Street Building and the Old Royal Naval College complex will host conference events.
+<a href+"https://ornc.org/">Greenwich Campus sits on a World Heritage Site</a> and is located in the heart of Greenwich, south-east London. The campus is surrounded by historical landmarks and Greenwich Park. Both the <a href="https://www.gre.ac.uk/about-us/travel/stockwell">Stockwell Street Building</a> and <a href="https://www.gre.ac.uk/about-us/travel/greenwich">the Old Royal Naval College</a> complex will host conference events.
+
