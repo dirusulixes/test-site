@@ -562,3 +562,5 @@ We welcome submissions discussing any issue associated with the teaching of SNA,
 The contributions could be work in progress or completed studies. We welcome both theoretical and empirical studies, as well as those which are more focused on pedagogical reflections.
 <p>&nbsp;</p>
 </details>
+
+<a align="center" class="px-10 py-2 text-gray-200 bg-eusnblue rounded-full shadow-md text-lg hover:bg-gray-800 hover:border-red" href="https://cmt3.research.microsoft.com/EUSN2022" target="_blank">Submit Now</a>
