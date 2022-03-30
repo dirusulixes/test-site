@@ -15,18 +15,28 @@
     "content": "Poster Proposals due (Notification 20th June)"
   },
   {
+    "title": "1th June 2022",
+    "icon": "registration.svg",
+    "content": "Registration opens"
+  },
+  {
     "title": "31st July 2022",
     "icon": "earlybird.svg",
-    "content": "Early bird registation ends"
+    "content": "Early bird registation closes"
   },
   {
     "title": "31st August 2022",
     "icon": "registration.svg",
-    "content": "Regular registration ends"
+    "content": "Regular registration closes"
   },
   {
     "title": "1st September 2022",
     "icon": "lastminute.svg",
-    "content": "Last-minute registration begins"
+    "content": "Last-minute registration opens"
+  },
+  {
+    "title": "12-16th September 2022",
+    "icon": "registration.svg",
+    "content": "Conference appens"
   }
 ]
