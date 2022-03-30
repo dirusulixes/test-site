@@ -36,7 +36,7 @@ This session focuses on recent advances in the analysis of multilayer and featur
 
 
 <details>
-<summary><b>Organised Session 02:  Collaboration Networks</b></summary>
+<summary><b>Organised Session 02: Collaboration Networks</b></summary>
 <p>&nbsp;</p>
 
 **Giancarlo G. Ragozini**, University of Naples Federico II (giragoz@unina.it)
@@ -64,7 +64,7 @@ The organizers solicit the submission of abstracts dealing with the following to
 </details>
 
 <details>
-<summary><b>Organised Session 03:  Ecosystem of Entrepreneurs</b></summary>
+<summary><b>Organised Session 03: Ecosystem of Entrepreneurs</b></summary>
 <p>&nbsp;</p>
 
 **Hetty Wenxian Sun**, Greenwich Business School (w.sun@gre.ac.uk) 
@@ -96,7 +96,7 @@ The EU Social Networks Conference Ecosystem of Entrepreneur track encourages and
 </details>
 
 <details>
-<summary><b>Organised Session 04:  Family Networks and Personal Networks Through the Life-course</b></summary>
+<summary><b>Organised Session 04: Family Networks and Personal Networks Through the Life-course</b></summary>
 <p>&nbsp;</p>
 
 **Vera de Bel**, University of Turku, Netherlands Interdisciplinary Demographic Institute (vera.debel@utu.fi)
@@ -112,12 +112,28 @@ This session invites papers on personal and family networks during the different
 </details>
 
 <details>
-<summary><b>Organised Session 05:  Methodological and Software Advancements in Social Network Analysis</b></summary>
+<summary><b>Organised Session 05: Methodological and Software Advancements in Social Network Analysis</b></summary>
 <p>&nbsp;</p>
+
+
+**Stefano Ghinoi**, University of Greenwich (s.ghinoi@greenwich.ac.uk)
+**Guido Conaldi**, University of Greenwich
+
+This session will be dedicated to the exploration and discussion of novel methodological approaches and software applications for the analysis of social networks. The session aims to bring together theoretical contributions, empirical applications, and software illustrations using novel analytical tools - especially in cases where a more specialised organised session is not also offered. Topics for this session include, but are not limited to: 
+<p>&nbsp;</p>
+
+• Advancements in agent-based modeling; 
+• Advancements in blockmodeling; 
+• Community detection and graph partitioning; 
+• Developments in – or entirely new - descriptive network measures 
+• Software developments for the visualisation and analysis of networks  
+<p>&nbsp;</p>
+
+This list is not exhaustive, and the topics are provided as examples. We encourage submissions of a wide range of topics related to the general aim of the session. 
 </details>
 
 <details>
-<summary><b>Organised Session 06:  Modeling Network Dynamics</b></summary>
+<summary><b>Organised Session 06: Modeling Network Dynamics</b></summary>
 <p>&nbsp;</p>
 
 **Nynke Niezink**, Carnegie Mellon University (nniezink@andrew.cmu.edu)
@@ -134,7 +150,7 @@ Keywords: network dynamics, longitudinal networks, actor-oriented models, networ
 </details>
 
 <details>
-<summary><b>Organised Session 07:  Multiplex Networks and Individual Outcomes in School</b></summary>
+<summary><b>Organised Session 07: Multiplex Networks and Individual Outcomes in School</b></summary>
 <p>&nbsp;</p>
 
 **Andras Voros**, University of Manchester (andras.voros@manchester.ac.uk)
@@ -167,11 +183,12 @@ The list is not exhaustive: we are very much open to a wide range of studies on 
 </details>
 
 <details>
-<summary><b>Organised Session 08:  Network Analysis and Bibliometrics</b></summary>
+<summary><b>Organised Session 08: Network Analysis and Bibliometrics</b></summary>
 <p>&nbsp;</p>
 
 **Stefano Ghinoi**, University of Greenwich (s.ghinoi@greenwich.ac.uk)
-**Guido Conaldi**, University of Greenwich 
+**Guido Conaldi**, University of Greenwich
+**Katharina De Vita**, University of Greenwich
 <p>&nbsp;</p>
 
 The use of network analysis in bibliometrics has a long tradition, which dates back to the 1960s. However, while the analysis of bibliometric networks has become extremely popular in the last decades, there are still some areas that have received less attention; in particular, the construction of bibliometric networks, the use of different data sources, and the impact of bibliometric methods. Moreover, novel research topics constantly emerge in different scientific disciplines, and their evolution requires a robust mapping process. 
@@ -192,7 +209,7 @@ This session is dedicated to methodological advancements, empirical applications
 </details>
 
 <details>
-<summary><b>Organised Session 09:  Network Analysis and Sports</b></summary>
+<summary><b>Organised Session 09: Network Analysis and Sports</b></summary>
 <p>&nbsp;</p>
 
 **Lucio Palazzo**, University of Naples Federico II (lucio.palazzo@unina.it)
@@ -227,7 +244,7 @@ Innovative approaches of network analysis for popular team sports (e.g., footbal
 </details>
 
 <details>
-<summary><b>Organised Session 10:  Networking Historical Past</b></summary>
+<summary><b>Organised Session 10: Networking Historical Past</b></summary>
 <p>&nbsp;</p>
 
 **Paolo Cimadomo**, University of Haifa (cimadomopaolo@gmail.com)
@@ -248,7 +265,7 @@ We welcome submissions about any period, geographical area and topic, which migh
 </details>
 
 <details>
-<summary><b>Organised Session 11:  Networks and Crime</b></summary>
+<summary><b>Organised Session 11: Networks and Crime</b></summary>
 <p>&nbsp;</p>
 
 **Tomáš Diviák**, University of Manchester (tomas.diviak@manchester.ac.uk)
@@ -268,7 +285,7 @@ Keywords: covert networks, criminology, methodological innovation, co-offending,
 </details>
 
 <details>
-<summary><b>Organised Session 12:  Organizational Networks</b></summary>
+<summary><b>Organised Session 12: Organizational Networks</b></summary>
 <p>&nbsp;</p>
 
 **Spyros Angelopoulos**, Durham University (spyros.angelopoulos@durham.ac.uk)
@@ -293,7 +310,7 @@ We welcome both theoretical and empirical contributions addressing various aspec
 </details>
 
 <details>
-<summary><b>Organised Session 13:  Political Networks</b></summary>
+<summary><b>Organised Session 13: Political Networks</b></summary>
 <p>&nbsp;</p>
 
 Dimitris Christopoulos, Modul University Vienna
