@@ -17,7 +17,7 @@ Presentations will be allocated 15 minutes plus 5 minutes for discussion. Any to
 When submitting their presentation proposal, authors will be asked to indicate the organised session to which they are submitting by selecting one (only) subject area and to designate a primary contact. The primary contact will become the corresponding author and will be considered the designated presenter at the conference. Please be reminded that at EUSN 2022 participants are restricted to one presentation but may be co-authors of multiple submissions. 
 <p>&nbsp;</p>
 
-**<p align="center"><font size="5">Posters (deadline 24 June 2022, 12 midnight AoE)</font></p>**
+**<p align="center"><font size="5">Posters (deadline 12 June 2022, 12 midnight AoE)</font></p>**
 Posters will be exhibited during a poster session and reception at the conference. All posters will take part in the EUSN 2022 Poster Competition. The winner will receive a prize of £500. The evaluation criteria the selected judges will adopt are: the clarity of objectives and research questions; the appropriateness of research design and methods; the quality and impact of the research presented; the poster design and overall visual appeal.
 <p>&nbsp;</p>
 

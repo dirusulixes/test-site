@@ -115,9 +115,9 @@ This session invites papers on personal and family networks during the different
 <summary><b>Organised Session 05: Methodological and Software Advancements in Social Network Analysis</b></summary>
 <p>&nbsp;</p>
 
-
 **Stefano Ghinoi**, University of Greenwich (s.ghinoi@greenwich.ac.uk)
 **Guido Conaldi**, University of Greenwich
+<p>&nbsp;</p>
 
 This session will be dedicated to the exploration and discussion of novel methodological approaches and software applications for the analysis of social networks. The session aims to bring together theoretical contributions, empirical applications, and software illustrations using novel analytical tools - especially in cases where a more specialised organised session is not also offered. Topics for this session include, but are not limited to: 
 <p>&nbsp;</p>
