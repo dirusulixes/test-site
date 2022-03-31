@@ -188,7 +188,6 @@ The list is not exhaustive: we are very much open to a wide range of studies on 
 
 **Stefano Ghinoi**, University of Greenwich (s.ghinoi@greenwich.ac.uk)
 **Guido Conaldi**, University of Greenwich
-**Katharina De Vita**, University of Greenwich
 <p>&nbsp;</p>
 
 The use of network analysis in bibliometrics has a long tradition, which dates back to the 1960s. However, while the analysis of bibliometric networks has become extremely popular in the last decades, there are still some areas that have received less attention; in particular, the construction of bibliometric networks, the use of different data sources, and the impact of bibliometric methods. Moreover, novel research topics constantly emerge in different scientific disciplines, and their evolution requires a robust mapping process. 
