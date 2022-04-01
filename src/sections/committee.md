@@ -34,6 +34,7 @@ Miranda Lubbers, Autonomous University of Barcelona
 Matteo Magnani, Uppsala University
 Sophie Mützel, UniLu
 Juergen Pfeffer, Technical University of Munich
+Giancarlo Ragozini, University of Naples Federico II
 Yasaman Sarabi, Edinburgh Business School Heriot-Watt University 
 Termeh Shafie, University of Manchester
 Matthew Smith, Edinburgh Napier University 
