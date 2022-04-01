@@ -40,6 +40,6 @@ Matthew Smith, Edinburgh Napier University
 Tom Snijders, University of Groningen and University of Oxford
 Christoph Stadtfeld, ETH Zürich
 Paola Tubaro, CNRS
-Maria Vitale, University of Salerno
+Maria Prosperina Vitale, University of Salerno
 Susanna Zaccarin, University of Trieste
 Paola Zappa, Maynooth University
