@@ -33,6 +33,7 @@ Luka Kronegger, University of Ljubljana Faculty of social sciences
 Miranda Lubbers, Autonomous University of Barcelona
 Matteo Magnani, Uppsala University
 Sophie Mützel, UniLu
+Anna Piazza, University College London
 Juergen Pfeffer, Technical University of Munich
 Giancarlo Ragozini, University of Naples Federico II
 Yasaman Sarabi, Edinburgh Business School Heriot-Watt University 
@@ -42,5 +43,6 @@ Tom Snijders, University of Groningen and University of Oxford
 Christoph Stadtfeld, ETH Zürich
 Paola Tubaro, CNRS
 Maria Prosperina Vitale, University of Salerno
+Srinidhi Vasudevan, University of Greenwich
 Susanna Zaccarin, University of Trieste
 Paola Zappa, Maynooth University
