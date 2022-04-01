@@ -5,14 +5,14 @@ type: committee
 
 **<font size="5">Keynotes</font>**
 
-<a href="https://www.ucl.ac.uk/bartlett/architecture/people/dr-kerstin-sailer" target="_blank">**Prof. Kerstin Sailer**, University College London</a>
 <a href="http://www.european-academy-sociology.eu/fellows/lomi.html" target="_blank">**Prof. Alessandro Lomi**, Università della Svizzera italiana</a>
+<a href="https://www.ucl.ac.uk/bartlett/architecture/people/dr-kerstin-sailer" target="_blank">**Prof. Kerstin Sailer**, University College London</a>
 
 **<font size="5">Organising Committee</font>**
 
-Francesca Pallotti, University of Greenwich
 Guido Conaldi, University of Greenwich
 Stefano Ghinoi, University of Greenwich
+Francesca Pallotti, University of Greenwich
 
 **<font size="5">Program Committee</font>**
 
