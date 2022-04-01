@@ -1,4 +1,4 @@
 ---
 title: Important Dates
-type: features
+type: dates
 ---

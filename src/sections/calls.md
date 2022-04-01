@@ -1,7 +1,8 @@
 ---
 title: Calls for Proposals
-type: register
+type: calls
 ---
+
 **<p align="center"><font size="5">Organised sessions</font></p>**
 **<p align="center">Deadline 25 February 202, 12 midnight AoE</p>**
 If you would like to contribute by organizing a session focused on a particular topic, please submit a proposal including a description of that topic. Accepted sessions will be included in the submission form for presentations.
