@@ -9,16 +9,17 @@ type: workshops
 <details>
 <summary><b>Workshop 1: Estimating Exponential Random Graph Models using R</b></summary>
 <p>&nbsp;</p>
+
 **Michael T Heaney**, University of Glasgow (Michael.Heaney@glasgow.ac.uk)
 <p>&nbsp;</p>
 
 This workshop introduces the theory, methods, and R programming behind the estimation of Exponential Random Graph Models (ERGMs). Topics include endogenous model terms, specification, Markov Chain Monte Carlo (MCMC) estimation, convergence, goodness of fit, one‐mode ERGMs, two‐ mode ERGMS, and TERGMs.
-<p>&nbsp;</p>
 </details>
 
 <details>
 <summary><b>Workshop 2: Handling Missing Network Data - Theory and Practice</b></summary>
 <p>&nbsp;</p>
+
 **Robert W Krause**, Free University Berlin (robert.w.krause@fu-berlin.de)
 <p>&nbsp;</p>
 
@@ -29,7 +30,6 @@ In the second part of the workshop we will make use of state of the art missing 
 <p>&nbsp;</p>
 
 The workshop is open to all, especially the first three hours. The second three hours, too, are open to all, but participants with prior experience in ERGMs and SAOMs will profit most from this part. However, introductory material will be provided before hand and a short introduction in the nature of these model families will be given.
-<p>&nbsp;</p>
 </details>
 
 **<p align="center"><font size="5">Monday 12th September, Morning Half-day Sessions (3 hours)</font></p>**
@@ -37,6 +37,7 @@ The workshop is open to all, especially the first three hours. The second three 
 <details>
 <summary><b>Workshop 3: Discourse Network Analyzer 3.0</b></summary>
 <p>&nbsp;</p>
+
 **Philip Leifeld**, University of Essex (philip.leifeld@essex.ac.uk)
 <p>&nbsp;</p>
 
@@ -47,7 +48,6 @@ The new version 3.0 of Discourse Network Analyzer has been developed since 2021 
 <p>&nbsp;</p>
 
 Participants are required to install Java (e.g., Adopt OpenJDK 11 from https://adoptopenjdk.net/) and download Discourse Network Analyzer along with its manual and sample database from https://github.com/leifeld/dna as well as visone from https://visone.ethz.ch before the workshop begins.
-<p>&nbsp;</p>
 </details>
 
 
@@ -55,25 +55,18 @@ Participants are required to install Java (e.g., Adopt OpenJDK 11 from https://a
 <details>
 <summary><b>Workshop 4: Introduction to Network Analysis tools in R</b></summary>
 <p>&nbsp;</p>
+
 **Michal Bojanowski**, Kozminski University (mbojanowski@kozminski.edu.pl)
 **Lorien Jasny**, University of Exeter
 <p>&nbsp;</p>
 
 Those wishing to use the R programming language for network analysis now have a plethora of choices when it comes to libraries. In this workshop, we survey the main packages used for network data management, analysis, and visualization. We will cover 1) importing network data (from actual files), 2) network objects and attributes, 3) computing basic descriptives (attribute distribution, mixing matrix, density, degrees, betweenness, closeness), and 4) visualization (layouts, node aesthetics). These will be done side by side for the different packages, as well as discussion of the strengths and weaknesses of each. We conclude with time for attendees to work either on toy datasets or with their own data with help from instructors. This workshop is a unification of workshops "Using R and 'igraph' for Social Network Analysis" and "Introduction to Social Network Analysis with R and statnet" that has been offered on Sunbelt and EUSN conferences since 2011. It will serve as an introduction for those wishing to take "Moving beyond descriptives", "Using 'igraph' for SNA: advanced topics", "An introduction to ERGM with Statnet", or other Statnet-related workshops on the program.
-<p>&nbsp;</p>
-
-Duration: 3hrs
-<p>&nbsp;</p>
-
-Max group size: 50
-<p>&nbsp;</p>
 </details>
-
-
 
 <details>
 <summary><b>Workshop 5: The Analysis of Longitudinal Social Network Data using RSIENA</b></summary>
 <p>&nbsp;</p>
+
 **Per Block**, University of Oxford (per.block@sociology.ox.ac.uk)
 <p>&nbsp;</p>
 
@@ -96,14 +89,12 @@ Prerequisites:
 <p>&nbsp;</p>
 
 Course participants should have a basic understanding of model-based statistical inference (say, logistic regression), some prior knowledge of social networks, and should have had some basic exposure to the R statistical software environment. They are expected to bring their own laptop to the course (Windows, Mac or Linux), with the R statistical software environment and the RSiena package pre-installed. Participants for whom R is new are requested to learn the basics of R before the workshop: how to run R and how to give basic R commands. This is to reduce the amount of new material to digest at the workshop itself. The Siena website (RSiena tab) has some links which can be helpful for this purpose. Further instructions will be given before the conference starts
-<p>&nbsp;</p>
 </details>
-
-
 
 <details>
 <summary><b>Workshop 6: The goldfish package in R</b></summary>
 <p>&nbsp;</p>
+
 **Christoph Stadtfeld**, ETH Zürich
 **James Hollway**, Graduate Institute, Geneva
 **Marion Hoffman**, IAST
@@ -123,16 +114,14 @@ Course participants should be familiar with R and model-based statistical infere
 <p>&nbsp;</p>
 
 More information about the package and installation is available on Github: https://github.com/snlab-ch/goldfish
-<p>&nbsp;</p>
 </details>
 
 **<p align="center"><font size="5">Monday 12th September, Afternoon Half-day Sessions (3 hours)</font></p>**
 
-
-
 <details>
 <summary><b>Workshop 7: REM beyond dyads: relational hyperevent modeling with eventnet</b></summary>
 <p>&nbsp;</p>
+
 **Juergen Lerner**, University of Konstanz (juergen.lerner@uni-konstanz.de)
 **Alessandro Lomi**, Università della Svizzera italiana
 <p>&nbsp;</p>
@@ -159,32 +148,22 @@ Lerner and Lomi (2021). Relational hyperevent models for polyadic interaction ne
 <p>&nbsp;</p>
 
 Lerner and Lomi (2022). A dynamic model for the mutual constitution of individuals and events. Journal of Complex Networks (to appear).
-<p>&nbsp;</p>
 </details>
-
-
 
 <details>
 <summary><b>Workshop 8: Using ‘igraph’ for SNA: advanced topics</b></summary>
 <p>&nbsp;</p>
+
 **Michal Bojanowski**, Kozminski University (mbojanowski@kozminski.edu.pl)
 <p>&nbsp;</p>
 
 Package igraph (Csardi and Nepusz 2006) is one of the main packages for network data handling, visualization and (descriptive) analysis. We take a deeper dive into the capabilities and focus on: (1) Indexing/subscripting network objects: querying nodes/ties by their properties and properties of ties/nodes they are incident upon. (2) Advanced visualization techniques (3) Studying connectivity (paths, connected components, cliques) (4) Network homophily, segregation and community detection. The workshop is designed for users familiar with the basics of R and ‘igraph,’ such as covered in the workshop “Introduction to Network Analysis Tools in R.” Elements of this workshop have been previously available as a part of “Using R and ‘igraph’ for Social Network Analysis” workshop offered on Sunbelt and EUSN conferences since 2011. This document is also designed for self-study with code examples and data from publicly available sources.
-<p>&nbsp;</p>
-
-Duration: 3hrs
-<p>&nbsp;</p>
-
-Max group size: 50
-<p>&nbsp;</p>
 </details>
-
-
 
 <details>
 <summary><b>Workshop 9: migraph: multimodal network analysis</b></summary>
 <p>&nbsp;</p>
+
 **James Hollway**, Graduate Institute, Geneva (james.hollway@graduateinstitute.ch)
 **Jael Tan**, Graduate Institute, Geneva
 **Andrea Biswas Tortajada**, Graduate Institute, Geneva
@@ -197,33 +176,28 @@ This workshop introduces migraph, a new, complementary R package for the analysi
 <p>&nbsp;</p>
 
 The goal of this workshop is to provide an overview of multimodal network analysis and to teach participants how to conduct analyses on multimodal network data using the migraph package. The practical elements make use of R scripts, and so familiarity with R is recommended. Participants can bring their own research problems and data and, depending on the number of participants, remaining time can be used to discuss them.
-<p>&nbsp;</p>
 </details>
-
-
 
 <details>
 <summary><b>Workshop 10: Generalized blockmodeling in R using blockmodeling package blockmodeling</b></summary>
 <p>&nbsp;</p>
+
 **Aleš Žiberna**, University of Ljubljana (Ales.Ziberna@fdv.uni-lj.si)
 **Marjan Cugmas**, University of Ljubljana
 <p>&nbsp;</p>
 
 The workshop will cover generalized blockmodeling (Doreian et al., 2005; Žiberna, 2007) of mainly one-mode binary and valued networks in R using "blockmodeling" package (Žiberna, 2021). Only basic knowledge of R and networks/graphs is required. The workshop will cover matrix representation of the network, plotting of such matrices, and of course, clustering the units in the network, that is blockmodeling. Clustering units based on structural, regular and generalized equivalence will be covered. The later implies that also pre-specified blockmodeling will be covered. All aspects of blockmodeling with the blockmodeling package from preparing the data through calling the optimization function (including setting appropriate parameters) to plotting and interpreting the results will be covered. In case of sufficient time and expressed interest, blockmodeling two-mode, multilevel, and linked networks can also discussed.
-<p>&nbsp;</p>
 </details>
-
-
 
 <details>
 <summary><b>Workshop 11: Introduction to UCINET</b></summary>
 <p>&nbsp;</p>
+
 **Srinidhi Vasudevan**, University of Greenwich (Srinidhi.Vasudevan@greenwich.ac.uk)
 **Anna Piazza**, University College London
 <p>&nbsp;</p>
 
 To Be Confirmed.
-<p>&nbsp;</p>
 </details>
 
 **<p align="center"><font size="5">Friday 16th September, Full-day Sessions (6 hours)</font></p>**
@@ -231,6 +205,7 @@ To Be Confirmed.
 <details>
 <summary><b>Workshop 12: Advanced RSiena workshop</b></summary>
 <p>&nbsp;</p>
+
 **Tom A.B. Snijders**, University of Groningen / University of Oxford (t.a.b.snijders@rug.nl)
 <p>&nbsp;</p>
 
@@ -249,14 +224,12 @@ Topics treated will be the following – all in the framework of modelling netwo
 <p>&nbsp;</p>
 
 SIENA website: http://www.stats.ox.ac.uk/~snijders/siena
-<p>&nbsp;</p>
 </details>
-
-
 
 <details>
 <summary><b>Workshop 13: Using patent data for collaboration network analysis. An application with USTPO data in PatentsView</b></summary>
 <p>&nbsp;</p>
+
 **Pablo Galaso**, Universidad de la Republica (pablogalaso@gmail.com)
 **Sergio Palomeque**, Universidad de la Republica
 <p>&nbsp;</p>
@@ -271,27 +244,24 @@ The specific objectives offered by the workshop to its participants are: (i) to 
 <p>&nbsp;</p>
 
 Previous knowledge of the participants: it is recommended (although not exclusive) that attendees have a basic knowledge of R and RStudio, as well as a general knowledge of Social Network Analysis.
-<p>&nbsp;</p>
 </details>
-
-
 
 <details>
 <summary><b>Workshop 14: Egocentric network analysis with R</b></summary>
 <p>&nbsp;</p>
+
 **Raffaele Vacca**, University of Milan (raffaele.vacca@unimi.it)
 <p>&nbsp;</p>
 
 This workshop is an introduction to the R programming language and its tools to represent, manipulate and analyze egocentric or personal network data. No previous familiarity with R is required. To participate you only need a laptop with R and RStudio installed. Topics include: introduction to ego-network research and data; introduction to data structures and network objects in R; visualizing ego-networks; calculating measures on ego-network composition and structure; converting your ego-network measures to general R functions; applying your functions to many ego-networks. The workshop emphasizes R tidyverse packages for data science. We'll show how tidyverse functions can be used to easily conduct common operations in egocentric network analysis and to scale them up to large collections of ego-networks. We'll cover both base R functions and specific packages for network analysis (igraph, network, egor), data management (dplyr) and programming (purrr). We'll also provide a brief introduction to the egor package for ego-network analysis, and pointers to further resources to learn more about it. This workshop has been taught for the past nine years at several international conferences, including INSNA's Sunbelt and EUSN meetings. It draws on concepts and methods discussed in "Conducting personal network research: A practical guide" by Christopher McCarty, Miranda Lubbers, Raffaele Vacca and José Luis Molina (Guilford Press). More details on the workshop's materials, history and instructor are here: raffaelevacca.com/egonet-r.
-<p>&nbsp;</p>
 </details>
-
 
 **<p align="center"><font size="5">Friday 16th September, Morning Half-day Sessions (3 hours)</font></p>**
 
 <details>
 <summary><b>Workshop 15: Analysis of multiplex social networks (hands on with R)</b></summary>
 <p>&nbsp;</p>
+
 **Matteo Magnani**, Uppsala University (matteo.magnani@it.uu.se)
 <p>&nbsp;</p>
 
@@ -311,14 +281,12 @@ The proposed duration is 3 hours (including breaks), and the target are research
 <p>&nbsp;</p>
 
 The lecturer has authored several research and survey articles on multilayer networks during the last 11 years, is the main author of the software, and is a Distinguished University Teacher at Uppsala University.
-<p>&nbsp;</p>
 </details>
-
-
 
 <details>
 <summary><b>Workshop 16: Moving beyond descriptives: basic hypothesis testing with R/Statnet</b></summary>
 <p>&nbsp;</p>
+
 **Lorien Jasny**, University of Exeter (L.Jasny@exeter.ac.uk)
 <p>&nbsp;</p>
 
@@ -326,14 +294,12 @@ This workshop will cover basic statistical methods for network analysis within t
 <p>&nbsp;</p>
 
 Prerequisites: Some prior exposure to R, but extensive experience is not assumed. Completion of the “Introduction to Network Analysis with R” workshop session is suggested for those new to R. Familiarity with the basic concepts of descriptive network analysis (e.g., centrality scores, network visualization) is strongly recommended. Participants are recommended to bring a laptop with R, RStudio, and statnet installed. Sample data and code will be provided.
-<p>&nbsp;</p>
 </details>
-
-
 
 <details>
 <summary><b>Workshop 17: Tidy Networks: the tidyverse and tidygraph for social network analysis in R</b></summary>
 <p>&nbsp;</p>
+
 **Matthew Smith**, Edinburgh Napier University (M.Smith3@napier.ac.uk)
 **Yasaman Sarabi**, Edinburgh Business School, Heriot-Watt University
 <p>&nbsp;</p>
@@ -357,14 +323,12 @@ Requirements: No prior knowledge of R is required as an introduction will be pro
 <p>&nbsp;</p>
 
 Matthew Smith is a lecturer at Edinburgh Napier University. Yasaman Sarabi is an assistant professor at Edinburgh Business School, Heriot-Watt University. Both have experience delivering similar workshops at Sunbelt and EUSN conferences, including EUSN 2019 where this workshop was offered.
-<p>&nbsp;</p>
 </details>
-
-
 
 <details>
 <summary><b>Workshop 18: Introduction to visone</b></summary>
 <p>&nbsp;</p>
+
 **Julian Müller**, ETH Zürich / Università della Svizzera italiana (julian.mueller@gess.ethz.ch)
 <p>&nbsp;</p>
 
@@ -375,5 +339,4 @@ After a brief overview of visone's design and features, we will explore some of 
 <p>&nbsp;</p>
 
 Visone is written in Java and freely available at http://www.visone.info. It is advisable to bring a laptop running Windows, MacOS, or Linux, preferably with Java 8 or newer already installed.
-<p>&nbsp;</p>
 </details>
