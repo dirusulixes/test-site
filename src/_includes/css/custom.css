@@ -100,7 +100,7 @@ a:hover {
     list-style: none;
 
     animation-name: change;
-    animation-duration: 20s;
+    animation-duration: 10s;
     animation-iteration-count: infinite;
 }
 
