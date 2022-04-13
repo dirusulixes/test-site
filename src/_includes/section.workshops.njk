@@ -1,13 +1,13 @@
 {% for item in collections.sections %}
-  {% if item.data.type === 'sessions' %}
-    <div id="sessions" class="w-full min-h-screen flex flex-col justify-center items-center py-12">
+  {% if item.data.type === 'workshops' %}
+    <div id="workshops" class="w-full min-h-screen flex flex-col justify-center items-center bg-blue-900 py-12">
       <div class="self-center text-left w-full sm:w-2/3 xl:w-1/2 px-4 sm:px:0">
         <h2 class="font-bold tracking-wider text-center text-gray-800 text-4xl mb-4">{{ item.data.title }}</h2>
-        <div class="font-light text-black text-xl space-y-4">
+        <div class="font-light text-gray-200 text-xl space-y-4">
           {{ item.templateContent | safe }}
-{#         <div class="flex flex-row w-full justify-center pt-6">
+        <div class="flex flex-row w-full justify-center pt-6">
           <a class="px-10 py-2 text-gray-200 bg-eusnblue rounded-full shadow-md text-lg hover:bg-gray-800 hover:border-red" href="https://cmt3.research.microsoft.com/EUSN2022" target="_blank">Submit Now</a>
-        </div>   #}
+        </div>  
         </div>
       </div>
     </div>
