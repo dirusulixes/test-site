@@ -151,7 +151,7 @@ Lerner and Lomi (2022). A dynamic model for the mutual constitution of individua
 </details>
 
 <details>
-<summary><b>Workshop 8: Using ‘igraph’ for SNA: advanced topics</b></summary>
+<summary><b>Workshop 8: Using igraph for SNA: advanced topics</b></summary>
 <p>&nbsp;</p>
 
 **Michal Bojanowski**, Kozminski University (mbojanowski@kozminski.edu.pl)
