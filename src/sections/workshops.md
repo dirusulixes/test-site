@@ -32,6 +32,9 @@ In the second part of the workshop we will make use of state of the art missing 
 The workshop is open to all, especially the first three hours. The second three hours, too, are open to all, but participants with prior experience in ERGMs and SAOMs will profit most from this part. However, introductory material will be provided before hand and a short introduction in the nature of these model families will be given.
 </details>
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 **<p align="center"><font size="5">Monday 12th September, Morning Half-day Sessions (3 hours)</font></p>**
 
 <details>
@@ -115,6 +118,9 @@ Course participants should be familiar with R and model-based statistical infere
 
 More information about the package and installation is available on Github: https://github.com/snlab-ch/goldfish
 </details>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 **<p align="center"><font size="5">Monday 12th September, Afternoon Half-day Sessions (3 hours)</font></p>**
 
@@ -200,6 +206,9 @@ The workshop will cover generalized blockmodeling (Doreian et al., 2005; Žibern
 To Be Confirmed.
 </details>
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 **<p align="center"><font size="5">Friday 16th September, Full-day Sessions (6 hours)</font></p>**
 
 <details>
@@ -255,6 +264,9 @@ Previous knowledge of the participants: it is recommended (although not exclusiv
 
 This workshop is an introduction to the R programming language and its tools to represent, manipulate and analyze egocentric or personal network data. No previous familiarity with R is required. To participate you only need a laptop with R and RStudio installed. Topics include: introduction to ego-network research and data; introduction to data structures and network objects in R; visualizing ego-networks; calculating measures on ego-network composition and structure; converting your ego-network measures to general R functions; applying your functions to many ego-networks. The workshop emphasizes R tidyverse packages for data science. We'll show how tidyverse functions can be used to easily conduct common operations in egocentric network analysis and to scale them up to large collections of ego-networks. We'll cover both base R functions and specific packages for network analysis (igraph, network, egor), data management (dplyr) and programming (purrr). We'll also provide a brief introduction to the egor package for ego-network analysis, and pointers to further resources to learn more about it. This workshop has been taught for the past nine years at several international conferences, including INSNA's Sunbelt and EUSN meetings. It draws on concepts and methods discussed in "Conducting personal network research: A practical guide" by Christopher McCarty, Miranda Lubbers, Raffaele Vacca and José Luis Molina (Guilford Press). More details on the workshop's materials, history and instructor are here: raffaelevacca.com/egonet-r.
 </details>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 **<p align="center"><font size="5">Friday 16th September, Morning Half-day Sessions (3 hours)</font></p>**
 
