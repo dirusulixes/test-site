@@ -119,13 +119,42 @@ Course participants should be familiar with R and model-based statistical infere
 More information about the package and installation is available on Github: https://github.com/snlab-ch/goldfish
 </details>
 
+<details>
+<summary><b>Workshop 7: In-person and remote social network interviewing with Network Canvas</b></summary>
+<p>&nbsp;</p>
+
+**Bernie Hogan**, University of Oxford (bernie.hogan@oii.ox.ac.uk)
+**Joshua Melville**, Northwestern University
+<p>&nbsp;</p>
+
+This workshop shows how to use the free, cross-platform software Network Canvas (www.networkcanvas.com) to conduct structured or semi-structured social network interviews both in-person and via video conferencing software. Network Canvas is designed for creating personal networks with a respondent using a variety of highly visual and touch optimised controls. This includes features for doing work with name generators, rosters, free recall, dyad census, and drawing edges manually. The software is structured into a series of stages and is regularly reported by respondents as fun and engaging. Data can be exported for use in most major social network analysis packages and apps. This workshop will focus on the Interviewer app for deploying interviews and the Architect App for designing interviews.
+<p>&nbsp;</p>
+
+Order of topics:
+
+• Guided walkthrough of an interview using the Interviewer app.
+• Guided walkthrough of how it was created in the Architect app.
+• Activity showing how to modify the interview in Architect followed by doing a Network Canvas interview with a peer.
+•  Discussion of strategies and issues for doing remote interview sessions considering the limitations of Zoom, Google Meet, and Teams.
+•  Time permitting, a brief guide to selected advanced features including skip-flow logic, prompt-based labelling, R export, and how to produce basic descriptive statistics.
+<p>&nbsp;</p>
+
+The convenor will provide example protocols and scripts for users to work with. These will be available via URL and shared shortly before the workshop. Prior materials are available via the Network Canvas documentation page: https://documentation.networkcanvas.com/
+<p>&nbsp;</p>
+
+Pre-requisites:
+
+Course participants should arrive with a working copy of Network Canvas Interviewer and Architect installed on a personal computer such as a Mac OSX or Windows machine. Network Canvas is available from https://www.networkcanvas.com/
+</details>
+
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
 **<p align="center"><font size="5">Monday 12th September, Afternoon Half-day Sessions (3 hours)</font></p>**
 
 <details>
-<summary><b>Workshop 7: REM beyond dyads: relational hyperevent modeling with eventnet</b></summary>
+<summary><b>Workshop 8: REM beyond dyads: relational hyperevent modeling with eventnet</b></summary>
 <p>&nbsp;</p>
 
 **Juergen Lerner**, University of Konstanz (juergen.lerner@uni-konstanz.de)
@@ -157,7 +186,7 @@ Lerner and Lomi (2022). A dynamic model for the mutual constitution of individua
 </details>
 
 <details>
-<summary><b>Workshop 8: Using igraph for SNA: advanced topics</b></summary>
+<summary><b>Workshop 9: Using igraph for SNA: advanced topics</b></summary>
 <p>&nbsp;</p>
 
 **Michal Bojanowski**, Kozminski University (mbojanowski@kozminski.edu.pl)
@@ -167,7 +196,7 @@ Package igraph (Csardi and Nepusz 2006) is one of the main packages for network 
 </details>
 
 <details>
-<summary><b>Workshop 9: migraph: multimodal network analysis</b></summary>
+<summary><b>Workshop 10: migraph: multimodal network analysis</b></summary>
 <p>&nbsp;</p>
 
 **James Hollway**, Graduate Institute, Geneva (james.hollway@graduateinstitute.ch)
@@ -185,7 +214,7 @@ The goal of this workshop is to provide an overview of multimodal network analys
 </details>
 
 <details>
-<summary><b>Workshop 10: Generalized blockmodeling in R using blockmodeling package blockmodeling</b></summary>
+<summary><b>Workshop 11: Generalized blockmodeling in R using blockmodeling package blockmodeling</b></summary>
 <p>&nbsp;</p>
 
 **Aleš Žiberna**, University of Ljubljana (Ales.Ziberna@fdv.uni-lj.si)
@@ -196,7 +225,7 @@ The workshop will cover generalized blockmodeling (Doreian et al., 2005; Žibern
 </details>
 
 <details>
-<summary><b>Workshop 11: Introduction to UCINET</b></summary>
+<summary><b>Workshop 12: Introduction to UCINET</b></summary>
 <p>&nbsp;</p>
 
 **Srinidhi Vasudevan**, University of Greenwich (Srinidhi.Vasudevan@greenwich.ac.uk)
@@ -212,7 +241,7 @@ To Be Confirmed.
 **<p align="center"><font size="5">Friday 16th September, Full-day Sessions (6 hours)</font></p>**
 
 <details>
-<summary><b>Workshop 12: Advanced RSiena workshop</b></summary>
+<summary><b>Workshop 13: Advanced RSiena workshop</b></summary>
 <p>&nbsp;</p>
 
 **Tom A.B. Snijders**, University of Groningen / University of Oxford (t.a.b.snijders@rug.nl)
@@ -236,7 +265,7 @@ SIENA website: http://www.stats.ox.ac.uk/~snijders/siena
 </details>
 
 <details>
-<summary><b>Workshop 13: Using patent data for collaboration network analysis. An application with USTPO data in PatentsView</b></summary>
+<summary><b>Workshop 14: Using patent data for collaboration network analysis. An application with USTPO data in PatentsView</b></summary>
 <p>&nbsp;</p>
 
 **Pablo Galaso**, Universidad de la Republica (pablogalaso@gmail.com)
@@ -256,7 +285,7 @@ Previous knowledge of the participants: it is recommended (although not exclusiv
 </details>
 
 <details>
-<summary><b>Workshop 14: Egocentric network analysis with R</b></summary>
+<summary><b>Workshop 15: Egocentric network analysis with R</b></summary>
 <p>&nbsp;</p>
 
 **Raffaele Vacca**, University of Milan (raffaele.vacca@unimi.it)
@@ -274,7 +303,7 @@ This workshop is an introduction to the R programming language and its tools to 
 **<p align="center"><font size="5">Friday 16th September, Morning Half-day Sessions (3 hours)</font></p>**
 
 <details>
-<summary><b>Workshop 15: Analysis of multiplex social networks (hands on with R)</b></summary>
+<summary><b>Workshop 16: Analysis of multiplex social networks (hands on with R)</b></summary>
 <p>&nbsp;</p>
 
 **Matteo Magnani**, Uppsala University (matteo.magnani@it.uu.se)
@@ -299,7 +328,7 @@ The lecturer has authored several research and survey articles on multilayer net
 </details>
 
 <details>
-<summary><b>Workshop 16: Moving beyond descriptives: basic hypothesis testing with R/Statnet</b></summary>
+<summary><b>Workshop 17: Moving beyond descriptives: basic hypothesis testing with R/Statnet</b></summary>
 <p>&nbsp;</p>
 
 **Lorien Jasny**, University of Exeter (L.Jasny@exeter.ac.uk)
@@ -312,7 +341,7 @@ Prerequisites: Some prior exposure to R, but extensive experience is not assumed
 </details>
 
 <details>
-<summary><b>Workshop 17: Tidy Networks: the tidyverse and tidygraph for social network analysis in R</b></summary>
+<summary><b>Workshop 18: Tidy Networks: the tidyverse and tidygraph for social network analysis in R</b></summary>
 <p>&nbsp;</p>
 
 **Matthew Smith**, Edinburgh Napier University (M.Smith3@napier.ac.uk)
@@ -341,7 +370,7 @@ Matthew Smith is a lecturer at Edinburgh Napier University. Yasaman Sarabi is an
 </details>
 
 <details>
-<summary><b>Workshop 18: Introduction to visone</b></summary>
+<summary><b>Workshop 19: Introduction to visone</b></summary>
 <p>&nbsp;</p>
 
 **Julian Müller**, ETH Zürich / Università della Svizzera italiana (julian.mueller@gess.ethz.ch)
@@ -356,30 +385,3 @@ After a brief overview of visone's design and features, we will explore some of 
 Visone is written in Java and freely available at http://www.visone.info. It is advisable to bring a laptop running Windows, MacOS, or Linux, preferably with Java 8 or newer already installed.
 </details>
 
-<details>
-<summary><b>Workshop 19: In-person and remote social network interviewing with Network Canvas</b></summary>
-<p>&nbsp;</p>
-
-**Bernie Hogan**, University of Oxford (bernie.hogan@oii.ox.ac.uk)
-**Joshua Melville**, Northwestern University
-<p>&nbsp;</p>
-
-This workshop shows how to use the free, cross-platform software Network Canvas (www.networkcanvas.com) to conduct structured or semi-structured social network interviews both in-person and via video conferencing software. Network Canvas is designed for creating personal networks with a respondent using a variety of highly visual and touch optimised controls. This includes features for doing work with name generators, rosters, free recall, dyad census, and drawing edges manually. The software is structured into a series of stages and is regularly reported by respondents as fun and engaging. Data can be exported for use in most major social network analysis packages and apps. This workshop will focus on the Interviewer app for deploying interviews and the Architect App for designing interviews.
-<p>&nbsp;</p>
-
-Order of topics:
-
-• Guided walkthrough of an interview using the Interviewer app.
-• Guided walkthrough of how it was created in the Architect app.
-• Activity showing how to modify the interview in Architect followed by doing a Network Canvas interview with a peer.
-•  Discussion of strategies and issues for doing remote interview sessions considering the limitations of Zoom, Google Meet, and Teams.
-•  Time permitting, a brief guide to selected advanced features including skip-flow logic, prompt-based labelling, R export, and how to produce basic descriptive statistics.
-<p>&nbsp;</p>
-
-The convenor will provide example protocols and scripts for users to work with. These will be available via URL and shared shortly before the workshop. Prior materials are available via the Network Canvas documentation page: https://documentation.networkcanvas.com/
-<p>&nbsp;</p>
-
-Pre-requisites:
-
-Course participants should arrive with a working copy of Network Canvas Interviewer and Architect installed on a personal computer such as a Mac OSX or Windows machine. Network Canvas is available from https://www.networkcanvas.com/
-</details>
