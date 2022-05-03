@@ -355,3 +355,31 @@ After a brief overview of visone's design and features, we will explore some of 
 
 Visone is written in Java and freely available at http://www.visone.info. It is advisable to bring a laptop running Windows, MacOS, or Linux, preferably with Java 8 or newer already installed.
 </details>
+
+<details>
+<summary><b>Workshop 19: In-person and remote social network interviewing with Network Canvas</b></summary>
+<p>&nbsp;</p>
+
+**Bernie Hogan**, University of Oxford (bernie.hogan@oii.ox.ac.uk)
+**Joshua Melville**, Northwestern University
+<p>&nbsp;</p>
+
+This workshop shows how to use the free, cross-platform software Network Canvas (www.networkcanvas.com) to conduct structured or semi-structured social network interviews both in-person and via video conferencing software. Network Canvas is designed for creating personal networks with a respondent using a variety of highly visual and touch optimised controls. This includes features for doing work with name generators, rosters, free recall, dyad census, and drawing edges manually. The software is structured into a series of stages and is regularly reported by respondents as fun and engaging. Data can be exported for use in most major social network analysis packages and apps. This workshop will focus on the Interviewer app for deploying interviews and the Architect App for designing interviews.
+<p>&nbsp;</p>
+
+Order of topics:
+
+• Guided walkthrough of an interview using the Interviewer app.
+• Guided walkthrough of how it was created in the Architect app.
+• Activity showing how to modify the interview in Architect followed by doing a Network Canvas interview with a peer.
+•  Discussion of strategies and issues for doing remote interview sessions considering the limitations of Zoom, Google Meet, and Teams.
+•  Time permitting, a brief guide to selected advanced features including skip-flow logic, prompt-based labelling, R export, and how to produce basic descriptive statistics.
+<p>&nbsp;</p>
+
+The convenor will provide example protocols and scripts for users to work with. These will be available via URL and shared shortly before the workshop. Prior materials are available via the Network Canvas documentation page: https://documentation.networkcanvas.com/
+<p>&nbsp;</p>
+
+Pre-requisites:
+
+Course participants should arrive with a working copy of Network Canvas Interviewer and Architect installed on a personal computer such as a Mac OSX or Windows machine. Network Canvas is available from https://www.networkcanvas.com/
+</details>
