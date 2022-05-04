@@ -201,7 +201,6 @@ Package igraph (Csardi and Nepusz 2006) is one of the main packages for network 
 
 **James Hollway**, Graduate Institute, Geneva (james.hollway@graduateinstitute.ch)
 **Jael Tan**, Graduate Institute, Geneva
-**Andrea Biswas Tortajada**, Graduate Institute, Geneva
 <p>&nbsp;</p>
 
 The fields, arenas, or social spaces in which action takes place are never unidimensional but contain multiple types of actors and relations. Yet a common approach has been to ‘project’ any multimodal network data collected to one-mode networks to leverage existing network analytic packages. However, as outlined in Knoke, Diani, Hollway and Christopoulos’ (2021) Multimodal Political Networks, such an approach is no longer necessary as a host of techniques are readily available to those who wish to analyse multimodal networks.
