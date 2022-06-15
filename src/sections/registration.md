@@ -27,6 +27,9 @@ Please use the same email of your INSNA account if choosing the INSNA-member fee
   <tr>
 <th>Industry / Non-researching Institution</th> <th>£1,000</th>
   </tr>
+    <tr>
+ <th>Additional Items:</th> 
+ </tr>
   <tr>
 <th>Workshop (Full-day) - Student</th> <th>£50</th>
   </tr>
@@ -47,6 +50,9 @@ Please use the same email of your INSNA account if choosing the INSNA-member fee
 
 **<p align="center"><font size="5">Regular Fees (1st August - 31st August)</p></font>**
 <table align="center">
+   <tr>
+ <th>Ticket Options:</th> 
+ </tr>
   <tr>
 <th>Student</th> <th>£150</th>
   </tr>
@@ -58,6 +64,9 @@ Please use the same email of your INSNA account if choosing the INSNA-member fee
   <tr>
 <th>Industry / Non-researching Institution</th> <th>£1,500</th>
   </tr>
+      <tr>
+ <th>Additional Items:</th> 
+ </tr>
   <tr>
 <th>Workshop (Full-day) - Student</th> <th>£50</th>
   </tr>
@@ -78,6 +87,9 @@ Please use the same email of your INSNA account if choosing the INSNA-member fee
 
 **<p align="center"><font size="5">Last-minute Fees (1st September - 9th September)</p></font>**
 <table align="center">
+    <tr>
+ <th>Ticket Options:</th> 
+ </tr>
   <tr>
 <th>Student</th> <th>£200</th>
   </tr>
@@ -89,6 +101,9 @@ Please use the same email of your INSNA account if choosing the INSNA-member fee
   <tr>
 <th>Industry / Non-researching Institution</th> <th>£2,000</th>
   </tr>
+      <tr>
+ <th>Additional Items:</th> 
+ </tr>
   <tr>
 <th>Workshop (Full-day) - Student</th> <th>£50</th>
   </tr>
