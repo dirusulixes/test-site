@@ -13,7 +13,7 @@ Please use the same email of your INSNA account if choosing the INSNA-member fee
 
 **<p align="center"><font size="5">Early Bird Fees (12th June - 31st July)</p></font>**
 <p>&nbsp;</p>
-Student 	£100
+Student £100
 Academic - INSNA Member 	£200
 Academic - Non-INSNA Member 	£250
 Industry / Non-researching Institution £1,000
@@ -22,6 +22,7 @@ Workshop (Full-day) - Academic/Industry £100
 Workshop (Half-day) - Student £25
 Workshop (Half-day) - Academic/Industry £50
 Conference Gala Dinner £40
+
 <p>&nbsp;</p>
 
 **<p align="center"><font size="5">Regular Fees (1st August - 31st August)</p></font>**
@@ -35,6 +36,7 @@ Workshop (Full-day) - Academic/Industry £100
 Workshop (Half-day) - Student £25
 Workshop (Half-day) - Academic/Industry £50
 Conference Gala Dinner £40
+
 <p>&nbsp;</p>
 
 **<p align="center"><font size="5">Last-minute Fees (1st September - 9th September)</p></font>**
