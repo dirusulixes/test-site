@@ -13,7 +13,7 @@ Please use the same email of your INSNA account if choosing the INSNA-member fee
 
 **<p align="center"><font size="5">Early Bird Fees (12th June - 31st July)</p></font>**
 <p>&nbsp;</p>
-<table class="center">
+<table align="center">
   <tr>
 <th>Student</th> <th>£100</th>
   </tr>
