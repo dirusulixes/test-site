@@ -15,8 +15,8 @@ Please use the same email of your INSNA account if choosing the INSNA-member fee
 <table align="center">
   <tr>
  <th>Ticket Options:</th> 
-   </tr>
-
+ </tr>
+   <tr>
 <th>Student</th> <th>£100</th>
   </tr>
 <th>Academic - INSNA Member</th> 	<th>£200</th>
