@@ -3,7 +3,9 @@ title: Registration
 type: registration
 ---
 
-To register for the conference and workshops, please follow this link to the registration site.
+To register for the conference and workshops, please follow this link to the registration site. After having chosen the main ticket for the conference you will have the chance to select workshops, the gala dinner, and other social events as additional items.
+Please use the same email of your INSNA account if choosing the INSNA-member fees. 
+
 <div class="flex flex-row w-full justify-center pt-6">
 <a class="px-10 py-2 text-gray-200 bg-eusnblue rounded-full shadow-md text-lg hover:bg-gray-800 hover:border-red" href="https://store.gre.ac.uk/conferences-and-events/faculties-schools/fob/eusn-conference/6th-european-conference-on-social-networks" target="_blank">Register Now</a>
 </div>
@@ -11,12 +13,40 @@ To register for the conference and workshops, please follow this link to the reg
 
 **<p align="center"><font size="5">Early Bird Fees (12th June - 31st July)</p></font>**
 <p>&nbsp;</p>
-
+Student 	£100
+Academic - INSNA Member 	£200
+Academic - Non-INSNA Member 	£250
+Industry / Non-researching Institution £1,000
+Workshop (Full-day) - Student £50
+Workshop (Full-day) - Academic/Industry £100
+Workshop (Half-day) - Student £25
+Workshop (Half-day) - Academic/Industry £50
+Conference Gala Dinner £40
+<p>&nbsp;</p>
 
 **<p align="center"><font size="5">Regular Fees (1st August - 31st August)</p></font>**
 <p>&nbsp;</p>
+Student 	£150
+Academic - INSNA Member 	£250
+Academic - Non-INSNA Member 	£300
+Industry / Non-researching Institution £1,500
+Workshop (Full-day) - Student £50
+Workshop (Full-day) - Academic/Industry £100
+Workshop (Half-day) - Student £25
+Workshop (Half-day) - Academic/Industry £50
+Conference Gala Dinner £40
+<p>&nbsp;</p>
 
 **<p align="center"><font size="5">Last-minute Fees (1st September - 9th September)</p></font>**
-<p>&nbsp;</p>
+Student 	£200
+Academic - INSNA Member 	£300
+Academic - Non-INSNA Member 	£350
+Industry / Non-researching Institution £2,000
+Workshop (Full-day) - Student £50
+Workshop (Full-day) - Academic/Industry £100
+Workshop (Half-day) - Student £25
+Workshop (Half-day) - Academic/Industry £50
+Conference Gala Dinner £40
+
 
 
