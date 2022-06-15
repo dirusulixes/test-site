@@ -231,8 +231,10 @@ The workshop will cover generalized blockmodeling (Doreian et al., 2005; Žibern
 **Anna Piazza**, University College London
 <p>&nbsp;</p>
 
-To Be Confirmed.
-</details>
+This introductory workshop outlines the theoretical concepts of social network analysis and operationalisation of network measures through the use of the software Ucinet/Netdraw. The workshop covers the theoretical and empirical overview of the social network research field with an emphasis on the main concept of social network analysis, such as centrality, cohesion and social capital; and aspects of data collection and management for visualising and analysing networks through the software. The workshop will provide examples of applications of networks in various fields including education, management, health and bibliometric research and we will try to other examples that are relevant to the participants.
+<p>&nbsp;</p>
+
+Ucinet/Netdraw can be downloaded from https://sites.google.com/site/ucinetsoftware/home and participants are strongly encouraged to download it prior to the workshop.</details>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
