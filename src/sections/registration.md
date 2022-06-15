@@ -4,6 +4,8 @@ type: registration
 ---
 
 To register for the conference and workshops, please follow this link to the registration site. After having chosen the main ticket for the conference you will have the chance to select workshops, the gala dinner, and other social events as additional items.
+<p>&nbsp;</p>
+
 Please use the same email of your INSNA account if choosing the INSNA-member fees. 
 
 <div class="flex flex-row w-full justify-center pt-6">
@@ -27,6 +29,8 @@ Please use the same email of your INSNA account if choosing the INSNA-member fee
   <tr>
 <th>Industry / Non-researching Institution</th> <th>£1,000</th>
   </tr>
+</table>
+<table align="center">
     <tr>
  <th>Additional Items:</th> 
  </tr>
@@ -64,6 +68,8 @@ Please use the same email of your INSNA account if choosing the INSNA-member fee
   <tr>
 <th>Industry / Non-researching Institution</th> <th>£1,500</th>
   </tr>
+  </table>
+<table align="center">
       <tr>
  <th>Additional Items:</th> 
  </tr>
@@ -101,6 +107,8 @@ Please use the same email of your INSNA account if choosing the INSNA-member fee
   <tr>
 <th>Industry / Non-researching Institution</th> <th>£2,000</th>
   </tr>
+  </table>
+<table align="center">
       <tr>
  <th>Additional Items:</th> 
  </tr>
