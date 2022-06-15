@@ -14,6 +14,9 @@ Please use the same email of your INSNA account if choosing the INSNA-member fee
 **<p align="center"><font size="5">Early Bird Fees (12th June - 31st July)</p></font>**
 <table align="center">
   <tr>
+ <th>Ticket Options:</th> 
+   </tr>
+
 <th>Student</th> <th>£100</th>
   </tr>
 <th>Academic - INSNA Member</th> 	<th>£200</th>
@@ -71,8 +74,6 @@ Please use the same email of your INSNA account if choosing the INSNA-member fee
 <th>Conference Gala Dinner</th> <th>£40</th>
   </tr>
 </table>
-<p>&nbsp;</p>
-
 <p>&nbsp;</p>
 
 **<p align="center"><font size="5">Last-minute Fees (1st September - 9th September)</p></font>**
