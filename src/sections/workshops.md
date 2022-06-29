@@ -6,7 +6,7 @@ type: workshops
 
 **<p align="center"><font size="5">Monday 12th September, Full-day Sessions (6 hours)</font></p>**
 
-<details>
+<!-- <details>
 <summary><b>Workshop 1: Estimating Exponential Random Graph Models using R</b></summary>
 <p>&nbsp;</p>
 
@@ -15,7 +15,7 @@ type: workshops
 
 This workshop introduces the theory, methods, and R programming behind the estimation of Exponential Random Graph Models (ERGMs). Topics include endogenous model terms, specification, Markov Chain Monte Carlo (MCMC) estimation, convergence, goodness of fit, one‐mode ERGMs, two‐ mode ERGMS, and TERGMs.
 </details>
-
+ -->
 <details>
 <summary><b>Workshop 2: Handling Missing Network Data - Theory and Practice</b></summary>
 <p>&nbsp;</p>
