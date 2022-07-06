@@ -2,7 +2,7 @@
 title: Workshops
 type: workshops
 ---
-<p align="center">Click anywehre on the workshop titles to see the instructors and details.</p>
+<p align="center">Click anywhere on the workshop titles to see the instructors and details.</p>
 
 **<p align="center"><font size="5">Monday 12th September, Full-day Sessions (6 hours)</font></p>**
 
