@@ -8,7 +8,7 @@ The 6th European Conference on Social Networks (EUSN 2022) is hosted by the Netw
 Continuing the traditions of previous conferences in Barcelona (2014), Paris (2016), Mainz (2017), Zurich (2019), and Naples (2021), as well as the legacies of predecessors Applications of Social Network Analysis (ASNA) and UK Social Network Analysis (UKSNA), the conference brings together researchers and practitioners from the social sciences in the broad sense as well as statistics, computer science, data science, physics, economics, humanities, and other areas dealing with social networks.
 
 <div class="flex flex-row w-full justify-center pt-6">
-<a class="px-10 py-2 text-gray-200 bg-eusnblue rounded-full shadow-md text-lg hover:bg-gray-800 hover:border-red" href="https://eusn2022.org/EUSN2022_Programme_v1.2.pdf" target="_blank">Conference Programme PDF (v1.2 updated 11/08/22)</a>
+<a class="px-10 py-2 text-gray-200 bg-eusnblue rounded-full shadow-md text-lg hover:bg-gray-800 hover:border-red" href="https://eusn2022.org/EUSN2022_Programme_v1.2.pdf" target="_blank">Conference Programme PDF v1.2 (updated 11/08/22)</a>
 </div>
 <p>&nbsp;</p>
 
