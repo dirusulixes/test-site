@@ -147,20 +147,6 @@ Pre-requisites:
 Course participants should arrive with a working copy of Network Canvas Interviewer and Architect installed on a personal computer such as a Mac OSX or Windows machine. Network Canvas is available from https://www.networkcanvas.com/
 </details>
 
-<details>
-<summary><b>Workshop 17: Moving beyond descriptives: basic hypothesis testing with R/Statnet</b></summary>
-<p>&nbsp;</p>
-
-**Lorien Jasny**, University of Exeter (L.Jasny@exeter.ac.uk)
-<p>&nbsp;</p>
-
-This workshop will cover basic statistical methods for network analysis within the R/statnet platform. The approach taken is practical rather than theoretical, with emphasis on simple, robust methods for hypothesis testing and exploratory data analysis of single and multi-network data sets. Topics include: permutation tests for marginal relationships between node or graph-level indices and covariates and when you can use standard regression methods; Monte Carlo tests for structural biases; Quadratic Assignment Procedure (QAP), network correlation, autocorrelation, and regression; baseline models and conditional uniform graph tests; and exploratory multivariate analysis of multi-network data sets. We will also cover interpreting R code in existing functions and writing your own functions. We discuss briefly how these methods relate to Exponential Random Graph models (ERGM), but the focus of this workshop is on non-ERGM statistical methods.
-<p>&nbsp;</p>
-
-Prerequisites: Some prior exposure to R, but extensive experience is not assumed. Completion of the “Introduction to Network Analysis with R” workshop session is suggested for those new to R. Familiarity with the basic concepts of descriptive network analysis (e.g., centrality scores, network visualization) is strongly recommended. Participants are recommended to bring a laptop with R, RStudio, and statnet installed. Sample data and code will be provided.
-</details>
-
-
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -196,16 +182,6 @@ Lerner and Lomi (2021). Relational hyperevent models for polyadic interaction ne
 <p>&nbsp;</p>
 
 Lerner and Lomi (2022). A dynamic model for the mutual constitution of individuals and events. Journal of Complex Networks (to appear).
-</details>
-
-<details>
-<summary><b>Workshop 9: Using igraph for SNA: advanced topics</b></summary>
-<p>&nbsp;</p>
-
-**Michal Bojanowski**, Kozminski University (mbojanowski@kozminski.edu.pl)
-<p>&nbsp;</p>
-
-Package igraph (Csardi and Nepusz 2006) is one of the main packages for network data handling, visualization and (descriptive) analysis. We take a deeper dive into the capabilities and focus on: (1) Indexing/subscripting network objects: querying nodes/ties by their properties and properties of ties/nodes they are incident upon. (2) Advanced visualization techniques (3) Studying connectivity (paths, connected components, cliques) (4) Network homophily, segregation and community detection. The workshop is designed for users familiar with the basics of R and ‘igraph,’ such as covered in the workshop “Introduction to Network Analysis Tools in R.” Elements of this workshop have been previously available as a part of “Using R and ‘igraph’ for Social Network Analysis” workshop offered on Sunbelt and EUSN conferences since 2011. This document is also designed for self-study with code examples and data from publicly available sources.
 </details>
 
 <details>
@@ -247,7 +223,21 @@ The workshop will cover generalized blockmodeling (Doreian et al., 2005; Žibern
 This introductory workshop outlines the theoretical concepts of social network analysis and operationalisation of network measures through the use of the software Ucinet/Netdraw. The workshop covers the theoretical and empirical overview of the social network research field with an emphasis on the main concept of social network analysis, such as centrality, cohesion and social capital; and aspects of data collection and management for visualising and analysing networks through the software. The workshop will provide examples of applications of networks in various fields including education, management, health and bibliometric research and we will try to other examples that are relevant to the participants.
 <p>&nbsp;</p>
 
-Ucinet/Netdraw can be downloaded from https://sites.google.com/site/ucinetsoftware/home and participants are strongly encouraged to download it prior to the workshop.</details>
+Ucinet/Netdraw can be downloaded from https://sites.google.com/site/ucinetsoftware/home and participants are strongly encouraged to download it prior to the workshop.
+</details>
+
+<details>
+<summary><b>Workshop 17: Moving beyond descriptives: basic hypothesis testing with R/Statnet</b></summary>
+<p>&nbsp;</p>
+
+**Lorien Jasny**, University of Exeter (L.Jasny@exeter.ac.uk)
+<p>&nbsp;</p>
+
+This workshop will cover basic statistical methods for network analysis within the R/statnet platform. The approach taken is practical rather than theoretical, with emphasis on simple, robust methods for hypothesis testing and exploratory data analysis of single and multi-network data sets. Topics include: permutation tests for marginal relationships between node or graph-level indices and covariates and when you can use standard regression methods; Monte Carlo tests for structural biases; Quadratic Assignment Procedure (QAP), network correlation, autocorrelation, and regression; baseline models and conditional uniform graph tests; and exploratory multivariate analysis of multi-network data sets. We will also cover interpreting R code in existing functions and writing your own functions. We discuss briefly how these methods relate to Exponential Random Graph models (ERGM), but the focus of this workshop is on non-ERGM statistical methods.
+<p>&nbsp;</p>
+
+Prerequisites: Some prior exposure to R, but extensive experience is not assumed. Completion of the “Introduction to Network Analysis with R” workshop session is suggested for those new to R. Familiarity with the basic concepts of descriptive network analysis (e.g., centrality scores, network visualization) is strongly recommended. Participants are recommended to bring a laptop with R, RStudio, and statnet installed. Sample data and code will be provided.
+</details>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
