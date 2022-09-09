@@ -147,6 +147,19 @@ Pre-requisites:
 Course participants should arrive with a working copy of Network Canvas Interviewer and Architect installed on a personal computer such as a Mac OSX or Windows machine. Network Canvas is available from https://www.networkcanvas.com/
 </details>
 
+<details>
+<summary><b>Workshop 17: Moving beyond descriptives: basic hypothesis testing with R/Statnet</b></summary>
+<p>&nbsp;</p>
+
+**Lorien Jasny**, University of Exeter (L.Jasny@exeter.ac.uk)
+<p>&nbsp;</p>
+
+This workshop will cover basic statistical methods for network analysis within the R/statnet platform. The approach taken is practical rather than theoretical, with emphasis on simple, robust methods for hypothesis testing and exploratory data analysis of single and multi-network data sets. Topics include: permutation tests for marginal relationships between node or graph-level indices and covariates and when you can use standard regression methods; Monte Carlo tests for structural biases; Quadratic Assignment Procedure (QAP), network correlation, autocorrelation, and regression; baseline models and conditional uniform graph tests; and exploratory multivariate analysis of multi-network data sets. We will also cover interpreting R code in existing functions and writing your own functions. We discuss briefly how these methods relate to Exponential Random Graph models (ERGM), but the focus of this workshop is on non-ERGM statistical methods.
+<p>&nbsp;</p>
+
+Prerequisites: Some prior exposure to R, but extensive experience is not assumed. Completion of the “Introduction to Network Analysis with R” workshop session is suggested for those new to R. Familiarity with the basic concepts of descriptive network analysis (e.g., centrality scores, network visualization) is strongly recommended. Participants are recommended to bring a laptop with R, RStudio, and statnet installed. Sample data and code will be provided.
+</details>
+
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -328,18 +341,7 @@ The proposed duration is 3 hours (including breaks), and the target are research
 The lecturer has authored several research and survey articles on multilayer networks during the last 11 years, is the main author of the software, and is a Distinguished University Teacher at Uppsala University.
 </details>
 
-<details>
-<summary><b>Workshop 17: Moving beyond descriptives: basic hypothesis testing with R/Statnet</b></summary>
-<p>&nbsp;</p>
 
-**Lorien Jasny**, University of Exeter (L.Jasny@exeter.ac.uk)
-<p>&nbsp;</p>
-
-This workshop will cover basic statistical methods for network analysis within the R/statnet platform. The approach taken is practical rather than theoretical, with emphasis on simple, robust methods for hypothesis testing and exploratory data analysis of single and multi-network data sets. Topics include: permutation tests for marginal relationships between node or graph-level indices and covariates and when you can use standard regression methods; Monte Carlo tests for structural biases; Quadratic Assignment Procedure (QAP), network correlation, autocorrelation, and regression; baseline models and conditional uniform graph tests; and exploratory multivariate analysis of multi-network data sets. We will also cover interpreting R code in existing functions and writing your own functions. We discuss briefly how these methods relate to Exponential Random Graph models (ERGM), but the focus of this workshop is on non-ERGM statistical methods.
-<p>&nbsp;</p>
-
-Prerequisites: Some prior exposure to R, but extensive experience is not assumed. Completion of the “Introduction to Network Analysis with R” workshop session is suggested for those new to R. Familiarity with the basic concepts of descriptive network analysis (e.g., centrality scores, network visualization) is strongly recommended. Participants are recommended to bring a laptop with R, RStudio, and statnet installed. Sample data and code will be provided.
-</details>
 
 <details>
 <summary><b>Workshop 18: Tidy Networks: the tidyverse and tidygraph for social network analysis in R</b></summary>
